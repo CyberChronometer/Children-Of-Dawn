@@ -1,0 +1,2360 @@
+[CustomCards]
+	[    {
+	        "name": "Edict Etcher",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Elemental Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Edict Etcher.png"
+	        }
+	    },
+	    {
+	        "name": "Relic Salvager",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Relic Salvager.png"
+	        }
+	    },
+	    {
+	        "name": "Leaping Steelblood",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Elemental Monk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Leaping Steelblood.png"
+	        }
+	    },
+	    {
+	        "name": "Satrap's Dominion",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Satrap's Dominion.png"
+	        }
+	    },
+	    {
+	        "name": "Cycle-Charting Genius",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Cycle-Charting Genius.png"
+	        }
+	    },
+	    {
+	        "name": "Rabbit-Style Infiltrator",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Assassin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Rabbit-Style Infiltrator.png"
+	        }
+	    },
+	    {
+	        "name": "Eclipsing Arrow",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Human Archer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Eclipsing Arrow.png"
+	        }
+	    },
+	    {
+	        "name": "Voice of the Sun",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Voice of the Sun.png"
+	        }
+	    },
+	    {
+	        "name": "Censor of Celestial Crimes",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — God ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Censor of Celestial Crimes.png"
+	        }
+	    },
+	    {
+	        "name": "Immaculate Festival",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Immaculate Festival.png"
+	        }
+	    },
+	    {
+	        "name": "Celestial-Court Envoy",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — God ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Celestial-Court Envoy.png"
+	        }
+	    },
+	    {
+	        "name": "Plague-Cleansing Touch",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Plague-Cleansing Touch.png"
+	        }
+	    },
+	    {
+	        "name": "Oaths Enforced",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Oaths Enforced.png"
+	        }
+	    },
+	    {
+	        "name": "Hero's Journey",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Hero's Journey.png"
+	        }
+	    },
+	    {
+	        "name": "Thunder-Hammer Fist",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment — Style ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Thunder-Hammer Fist.png"
+	        }
+	    },
+	    {
+	        "name": "Tiger-Claw Style",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment — Style ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Tiger-Claw Style.png"
+	        }
+	    },
+	    {
+	        "name": "Prophetic Victory Confidence",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Prophetic Victory Confidence.png"
+	        }
+	    },
+	    {
+	        "name": "Weight of Legacy",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Weight of Legacy.png"
+	        }
+	    },
+	    {
+	        "name": "Azaran Sunspear",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Azaran Sunspear.png"
+	        }
+	    },
+	    {
+	        "name": "Manfestation of Winter",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}",
+	        "type": "Creature — God ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Manfestation of Winter.png"
+	        }
+	    },
+	    {
+	        "name": "Anathema Seeker",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Elemental Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Anathema Seeker.png"
+	        }
+	    },
+	    {
+	        "name": "Water-Dragon Master",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Elemental Monk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Water-Dragon Master.png"
+	        }
+	    },
+	    {
+	        "name": "Nameless Nemesis",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Assassin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Nameless Nemesis.png"
+	        }
+	    },
+	    {
+	        "name": "Stargraced Confidant",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Reflection Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Stargraced Confidant.png"
+	        }
+	    },
+	    {
+	        "name": "Skycrystal Reliquarian",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Skycrystal Reliquarian.png"
+	        }
+	    },
+	    {
+	        "name": "Sapphire Essence-Weaver",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Elemental Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Sapphire Essence-Weaver.png"
+	        }
+	    },
+	    {
+	        "name": "Altipani Rangers",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Altipani Rangers.png"
+	        }
+	    },
+	    {
+	        "name": "Predestined Manuever",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Predestined Manuever.png"
+	        }
+	    },
+	    {
+	        "name": "Perfect Evasion",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Perfect Evasion.png"
+	        }
+	    },
+	    {
+	        "name": "Word of Dissolution",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Word of Dissolution.png"
+	        }
+	    },
+	    {
+	        "name": "Harmonious Academic Method",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Harmonious Academic Method.png"
+	        }
+	    },
+	    {
+	        "name": "Astral Guidance",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Astral Guidance.png"
+	        }
+	    },
+	    {
+	        "name": "Magistrate's Acuity",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Magistrate's Acuity.png"
+	        }
+	    },
+	    {
+	        "name": "Immaculate Influence",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Immaculate Influence.png"
+	        }
+	    },
+	    {
+	        "name": "Infiltrator's Powerbow",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Infiltrator's Powerbow.png"
+	        }
+	    },
+	    {
+	        "name": "Soulsteel Chirurgeon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Creature — Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Soulsteel Chirurgeon.png"
+	        }
+	    },
+	    {
+	        "name": "Council of Masks",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Elemental Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Council of Masks.png"
+	        }
+	    },
+	    {
+	        "name": "Head-Taker Juggernaut",
+	        "rarity": "common",
+	        "mana_cost": "{7}{B}",
+	        "type": "Creature — Demon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Head-Taker Juggernaut.png"
+	        }
+	    },
+	    {
+	        "name": "Haunted Quaestor",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Knight Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Haunted Quaestor.png"
+	        }
+	    },
+	    {
+	        "name": "Stoneshatter Dancer",
+	        "rarity": "common",
+	        "mana_cost": "{5}{B}{B}",
+	        "type": "Creature — Demon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Stoneshatter Dancer.png"
+	        }
+	    },
+	    {
+	        "name": "Lapidara Monumentalist",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Elemental Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Lapidara Monumentalist.png"
+	        }
+	    },
+	    {
+	        "name": "Sunblade Saboteur",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Human Assassin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Sunblade Saboteur.png"
+	        }
+	    },
+	    {
+	        "name": "Death's Pawn",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Death's Pawn.png"
+	        }
+	    },
+	    {
+	        "name": "Dead Man's Grasp",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment — Style ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Dead Man's Grasp.png"
+	        }
+	    },
+	    {
+	        "name": "Blood Vortex Hand",
+	        "rarity": "uncommon",
+	        "mana_cost": "{6}{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Blood Vortex Hand.png"
+	        }
+	    },
+	    {
+	        "name": "Single Point Shining Into the Void",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Enchantment — Style ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Single Point Shining Into the Void.png"
+	        }
+	    },
+	    {
+	        "name": "Sevenfold Sojourner Stance",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Enchantment — Style ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Sevenfold Sojourner Stance.png"
+	        }
+	    },
+	    {
+	        "name": "Gather Materiel",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Gather Materiel.png"
+	        }
+	    },
+	    {
+	        "name": "Underworld Promises",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Underworld Promises.png"
+	        }
+	    },
+	    {
+	        "name": "Eminent Mistforged Arsenal",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Eminent Mistforged Arsenal.png"
+	        }
+	    },
+	    {
+	        "name": "Death of Obsidian Butterflies",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Death of Obsidian Butterflies.png"
+	        }
+	    },
+	    {
+	        "name": "First-Circle Binding",
+	        "rarity": "common",
+	        "mana_cost": "{5}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/First-Circle Binding.png"
+	        }
+	    },
+	    {
+	        "name": "Flamewheel Hunter",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Elemental Monk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Flamewheel Hunter.png"
+	        }
+	    },
+	    {
+	        "name": "Thanoori Privateer",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Human Pirate ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Thanoori Privateer.png"
+	        }
+	    },
+	    {
+	        "name": "Sungraced Demagogue",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Sungraced Demagogue.png"
+	        }
+	    },
+	    {
+	        "name": "Shikari's Armaments",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Shikari's Armaments.png"
+	        }
+	    },
+	    {
+	        "name": "Wavecleaver Corsair",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Elemental Pirate ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Wavecleaver Corsair.png"
+	        }
+	    },
+	    {
+	        "name": "Lightning Draw",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Lightning Draw.png"
+	        }
+	    },
+	    {
+	        "name": "Lapidara Dragonlord",
+	        "rarity": "common",
+	        "mana_cost": "{5}{R}",
+	        "type": "Creature — Elemental Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Lapidara Dragonlord.png"
+	        }
+	    },
+	    {
+	        "name": "Ghostbane Auxiliaries",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Ghostbane Auxiliaries.png"
+	        }
+	    },
+	    {
+	        "name": "Dreaming-Pearl Dancer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Monk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Dreaming-Pearl Dancer.png"
+	        }
+	    },
+	    {
+	        "name": "Dramatic Deployment",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Dramatic Deployment.png"
+	        }
+	    },
+	    {
+	        "name": "Sworn Siblings",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Sworn Siblings.png"
+	        }
+	    },
+	    {
+	        "name": "Kingdom-Shattering Fist",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment — Style ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Kingdom-Shattering Fist.png"
+	        }
+	    },
+	    {
+	        "name": "Sledgehammer Fist Initiate",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Elemental Monk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Sledgehammer Fist Initiate.png"
+	        }
+	    },
+	    {
+	        "name": "Fire-Dragon Style",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Enchantment — Style ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Fire-Dragon Style.png"
+	        }
+	    },
+	    {
+	        "name": "Searing Anima",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Searing Anima.png"
+	        }
+	    },
+	    {
+	        "name": "Height Advantage",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Height Advantage.png"
+	        }
+	    },
+	    {
+	        "name": "Tempest Goremaul",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Tempest Goremaul.png"
+	        }
+	    },
+	    {
+	        "name": "Wealth of the Dragonborn",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Wealth of the Dragonborn.png"
+	        }
+	    },
+	    {
+	        "name": "Sungraced Emissary",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Sungraced Emissary.png"
+	        }
+	    },
+	    {
+	        "name": "House Pilla Vanguard",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Elemental Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/House Pilla Vanguard.png"
+	        }
+	    },
+	    {
+	        "name": "Keepers of the Three Rivers",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — God ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Keepers of the Three Rivers.png"
+	        }
+	    },
+	    {
+	        "name": "Witches of Figialta",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Witches of Figialta.png"
+	        }
+	    },
+	    {
+	        "name": "Daudaka Warsteed",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Rhino ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Daudaka Warsteed.png"
+	        }
+	    },
+	    {
+	        "name": "Wood-Dragon Outrider",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Elemental Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Wood-Dragon Outrider.png"
+	        }
+	    },
+	    {
+	        "name": "Fate-Shrouded Wanderer",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Reflection Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Fate-Shrouded Wanderer.png"
+	        }
+	    },
+	    {
+	        "name": "Avenger of Souls",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Creature — Human Shaman Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Avenger of Souls.png"
+	        }
+	    },
+	    {
+	        "name": "Colossal Familiar",
+	        "rarity": "common",
+	        "mana_cost": "{5}{G}{G}",
+	        "type": "Creature — Chimera ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Colossal Familiar.png"
+	        }
+	    },
+	    {
+	        "name": "Hunter's Jade Coat",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Hunter's Jade Coat.png"
+	        }
+	    },
+	    {
+	        "name": "Memories of the First Age",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Memories of the First Age.png"
+	        }
+	    },
+	    {
+	        "name": "Reunite the Circle",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Reunite the Circle.png"
+	        }
+	    },
+	    {
+	        "name": "Unseen Scream's Revelations",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Unseen Scream's Revelations.png"
+	        }
+	    },
+	    {
+	        "name": "Feats of Strength",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Feats of Strength.png"
+	        }
+	    },
+	    {
+	        "name": "Dragonsblood Inheritance",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Dragonsblood Inheritance.png"
+	        }
+	    },
+	    {
+	        "name": "Steelshatter Adept",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Elemental Monk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Steelshatter Adept.png"
+	        }
+	    },
+	    {
+	        "name": "Rectifier of Celestial Order",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Monk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Rectifier of Celestial Order.png"
+	        }
+	    },
+	    {
+	        "name": "Orichalcum Metallurge",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Human Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Orichalcum Metallurge.png"
+	        }
+	    },
+	    {
+	        "name": "Taker of Crowns",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Human Assassin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Taker of Crowns.png"
+	        }
+	    },
+	    {
+	        "name": "Gatekeeper of Heaven",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — God ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Gatekeeper of Heaven.png"
+	        }
+	    },
+	    {
+	        "name": "Steel-Devil Duelist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Steel-Devil Duelist.png"
+	        }
+	    },
+	    {
+	        "name": "Ancestral Thaumaturge",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Ancestral Thaumaturge.png"
+	        }
+	    },
+	    {
+	        "name": "Altipani Skyknight",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Archer Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Altipani Skyknight.png"
+	        }
+	    },
+	    {
+	        "name": "Solar Charm",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Solar Charm.png"
+	        }
+	    },
+	    {
+	        "name": "Heartstone Bracers",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Heartstone Bracers.png"
+	        }
+	    },
+	    {
+	        "name": "Armaments Reclaimed",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Armaments Reclaimed.png"
+	        }
+	    },
+	    {
+	        "name": "Stormdaunt Swashbuckler",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Human Pirate ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Stormdaunt Swashbuckler.png"
+	        }
+	    },
+	    {
+	        "name": "Thanoori Sharpshooters",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Human Pirate Archer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Thanoori Sharpshooters.png"
+	        }
+	    },
+	    {
+	        "name": "Soulkeeper Privateer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Elemental Pirate ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Soulkeeper Privateer.png"
+	        }
+	    },
+	    {
+	        "name": "Daiklaive Duelist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{6}{U}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Daiklaive Duelist.png"
+	        }
+	    },
+	    {
+	        "name": "First-Age Reclaimer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/First-Age Reclaimer.png"
+	        }
+	    },
+	    {
+	        "name": "Fleet Command Authority",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Fleet Command Authority.png"
+	        }
+	    },
+	    {
+	        "name": "Wave-Parting Walk",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Wave-Parting Walk.png"
+	        }
+	    },
+	    {
+	        "name": "Sidereal Charm",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Sidereal Charm.png"
+	        }
+	    },
+	    {
+	        "name": "Seek Time's Threads",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Seek Time's Threads.png"
+	        }
+	    },
+	    {
+	        "name": "Elemental Legacy",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Elemental Legacy.png"
+	        }
+	    },
+	    {
+	        "name": "Ghost-Namer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Ghost-Namer.png"
+	        }
+	    },
+	    {
+	        "name": "Blood-Ape Bodyguard",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Demon Ape ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Blood-Ape Bodyguard.png"
+	        }
+	    },
+	    {
+	        "name": "Night-Caste Guerilla",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Assassin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Night-Caste Guerilla.png"
+	        }
+	    },
+	    {
+	        "name": "Void-Circle Spellreaver",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Void-Circle Spellreaver.png"
+	        }
+	    },
+	    {
+	        "name": "Shaper of Flesh",
+	        "rarity": "uncommon",
+	        "mana_cost": "{6}{B}{B}{B}",
+	        "type": "Creature — Demon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Shaper of Flesh.png"
+	        }
+	    },
+	    {
+	        "name": "Heroes Act, Villains React",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Heroes Act, Villains React.png"
+	        }
+	    },
+	    {
+	        "name": "Ancestor's Due",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Ancestor's Due.png"
+	        }
+	    },
+	    {
+	        "name": "Abyssal Tutor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Abyssal Tutor.png"
+	        }
+	    },
+	    {
+	        "name": "Abyssal Charm",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Abyssal Charm.png"
+	        }
+	    },
+	    {
+	        "name": "Laughing Wounds Form",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Enchantment — Style ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Laughing Wounds Form.png"
+	        }
+	    },
+	    {
+	        "name": "Deathknight Scythe",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Deathknight Scythe.png"
+	        }
+	    },
+	    {
+	        "name": "Pyretic Prodigy",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Elemental Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Pyretic Prodigy.png"
+	        }
+	    },
+	    {
+	        "name": "Twinblade Hunter",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Elemental Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Twinblade Hunter.png"
+	        }
+	    },
+	    {
+	        "name": "Flamestaff Innovator",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Flamestaff Innovator.png"
+	        }
+	    },
+	    {
+	        "name": "Decadent Dragonborn",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Elemental Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Decadent Dragonborn.png"
+	        }
+	    },
+	    {
+	        "name": "House Munio Paragons",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Elemental Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/House Munio Paragons.png"
+	        }
+	    },
+	    {
+	        "name": "Duelist's Contemplation",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Duelist's Contemplation.png"
+	        }
+	    },
+	    {
+	        "name": "Red-Jade Reaver",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Elemental Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Red-Jade Reaver.png"
+	        }
+	    },
+	    {
+	        "name": "Puissant Salvage Sense",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Puissant Salvage Sense.png"
+	        }
+	    },
+	    {
+	        "name": "Terrestrial Charm",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Terrestrial Charm.png"
+	        }
+	    },
+	    {
+	        "name": "Invoke the Molten Kraken",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Invoke the Molten Kraken.png"
+	        }
+	    },
+	    {
+	        "name": "Loyalty's Reward",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Loyalty's Reward.png"
+	        }
+	    },
+	    {
+	        "name": "Terrestrial Court",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — God Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Terrestrial Court.png"
+	        }
+	    },
+	    {
+	        "name": "Wood-Dragon Huntcaller",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Elemental Monk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Wood-Dragon Huntcaller.png"
+	        }
+	    },
+	    {
+	        "name": "Charging Oxdragon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{7}{G}",
+	        "type": "Creature — Dinosaur ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Charging Oxdragon.png"
+	        }
+	    },
+	    {
+	        "name": "Echo of the Elders",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Illusion Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Echo of the Elders.png"
+	        }
+	    },
+	    {
+	        "name": "Silver General's Foresight",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Silver General's Foresight.png"
+	        }
+	    },
+	    {
+	        "name": "Enlightened Mentor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Reflection Monk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Enlightened Mentor.png"
+	        }
+	    },
+	    {
+	        "name": "Lessons in Blood",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Lessons in Blood.png"
+	        }
+	    },
+	    {
+	        "name": "Reaver's Daiklaive",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Reaver's Daiklaive.png"
+	        }
+	    },
+	    {
+	        "name": "Lunar Charm",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Lunar Charm.png"
+	        }
+	    },
+	    {
+	        "name": "As Hammer on Iron",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/As Hammer on Iron.png"
+	        }
+	    },
+	    {
+	        "name": "Celestial Legacy",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Celestial Legacy.png"
+	        }
+	    },
+	    {
+	        "name": "Myriad Radiant Prophet",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Myriad Radiant Prophet.png"
+	        }
+	    },
+	    {
+	        "name": "Yongsyl, Daughter of Erasyl",
+	        "rarity": "rare",
+	        "mana_cost": "{W}",
+	        "type": "Legendary Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Yongsyl, Daughter of Erasyl.png"
+	        }
+	    },
+	    {
+	        "name": "Sunfire Interdictor",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{W}",
+	        "type": "Creature — Human Archer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Sunfire Interdictor.png"
+	        }
+	    },
+	    {
+	        "name": "Haunted Blademaster",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Haunted Blademaster.png"
+	        }
+	    },
+	    {
+	        "name": "Break",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Break.png"
+	        }
+	    },
+	    {
+	        "name": "Ascendant Battle Visage",
+	        "rarity": "rare",
+	        "mana_cost": "{W}",
+	        "type": "Enchantment — Style ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Ascendant Battle Visage.png"
+	        }
+	    },
+	    {
+	        "name": "Perfected Daikaive",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Perfected Daikaive.png"
+	        }
+	    },
+	    {
+	        "name": "Sorcerer-Savant",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Sorcerer-Savant.png"
+	        }
+	    },
+	    {
+	        "name": "Frozen-Tide Sorcerer",
+	        "rarity": "rare",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Elemental Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Frozen-Tide Sorcerer.png"
+	        }
+	    },
+	    {
+	        "name": "The Zho Fleet Crushed",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/The Zho Fleet Crushed.png"
+	        }
+	    },
+	    {
+	        "name": "Anything, Saroja's Blade",
+	        "rarity": "rare",
+	        "mana_cost": "{U}",
+	        "type": "Legendary Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Anything, Saroja's Blade.png"
+	        }
+	    },
+	    {
+	        "name": "Orria, Far from Home",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Legendary Planeswalker — Orria ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Orria, Far from Home.png"
+	        }
+	    },
+	    {
+	        "name": "Adamant Pattern of Truth",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{W}{U}",
+	        "type": "Legendary Creature — Human Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Adamant Pattern of Truth.png"
+	        }
+	    },
+	    {
+	        "name": "Fallen Wolf of the West",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{B}{B}",
+	        "type": "Legendary Creature — Pirate ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Fallen Wolf of the West.png"
+	        }
+	    },
+	    {
+	        "name": "Dead Sun Duelist",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Dead Sun Duelist.png"
+	        }
+	    },
+	    {
+	        "name": "Nameless Antihero",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Nameless Antihero.png"
+	        }
+	    },
+	    {
+	        "name": "The Lion Forsaken",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "Legendary Creature — Spirit Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/The Lion Forsaken.png"
+	        }
+	    },
+	    {
+	        "name": "Veil of Night",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Veil of Night.png"
+	        }
+	    },
+	    {
+	        "name": "Fool-Crushing Mountain Drop",
+	        "rarity": "rare",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Fool-Crushing Mountain Drop.png"
+	        }
+	    },
+	    {
+	        "name": "Crimson Pentacle Blades",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{B}",
+	        "type": "Enchantment — Style ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Crimson Pentacle Blades.png"
+	        }
+	    },
+	    {
+	        "name": "Kerthi, Itinerant Duelist",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{R}{R}",
+	        "type": "Legendary Creature — Elemental Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Kerthi, Itinerant Duelist.png"
+	        }
+	    },
+	    {
+	        "name": "Denouncer of Anathema",
+	        "rarity": "rare",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Elemental Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Denouncer of Anathema.png"
+	        }
+	    },
+	    {
+	        "name": "Mukhauta Cicatrice",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}",
+	        "type": "Legendary Creature — Elemental Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Mukhauta Cicatrice.png"
+	        }
+	    },
+	    {
+	        "name": "Schismatic Sunblader",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Human Cleric Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Schismatic Sunblader.png"
+	        }
+	    },
+	    {
+	        "name": "Burning Soul Prana",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Burning Soul Prana.png"
+	        }
+	    },
+	    {
+	        "name": "Death Ray",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Death Ray.png"
+	        }
+	    },
+	    {
+	        "name": "Ruination Poise",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Enchantment — Style ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Ruination Poise.png"
+	        }
+	    },
+	    {
+	        "name": "Face Your Demons",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Face Your Demons.png"
+	        }
+	    },
+	    {
+	        "name": "Silver Faction Navigator",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{G}",
+	        "type": "Creature — Reflection Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Silver Faction Navigator.png"
+	        }
+	    },
+	    {
+	        "name": "Horizon-Father Bekarys",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}",
+	        "type": "Legendary Creature — God ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Horizon-Father Bekarys.png"
+	        }
+	    },
+	    {
+	        "name": "House Pilla Ascetic",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Elemental Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/House Pilla Ascetic.png"
+	        }
+	    },
+	    {
+	        "name": "Panoply Collector",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{2}{G}",
+	        "type": "Creature — Elemental Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Panoply Collector.png"
+	        }
+	    },
+	    {
+	        "name": "Shared Reminiscence",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Shared Reminiscence.png"
+	        }
+	    },
+	    {
+	        "name": "Munio Danaisak",
+	        "rarity": "rare",
+	        "mana_cost": "{R}{R}{G}",
+	        "type": "Legendary Creature — Elemental Archer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Munio Danaisak.png"
+	        }
+	    },
+	    {
+	        "name": "Heaven's Light Unbound",
+	        "rarity": "rare",
+	        "mana_cost": "{G}{W}{W}",
+	        "type": "Legendary Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Heaven's Light Unbound.png"
+	        }
+	    },
+	    {
+	        "name": "Leyline Architect",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Human Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Leyline Architect.png"
+	        }
+	    },
+	    {
+	        "name": "Shape the Labyrinth",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Shape the Labyrinth.png"
+	        }
+	    },
+	    {
+	        "name": "Earth-Dragon Style",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Enchantment — Style ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Earth-Dragon Style.png"
+	        }
+	    },
+	    {
+	        "name": "Blazing-Bow Shikari",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Elemental Archer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Blazing-Bow Shikari.png"
+	        }
+	    },
+	    {
+	        "name": "Lord of the First Hunt",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — God ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Lord of the First Hunt.png"
+	        }
+	    },
+	    {
+	        "name": "Raven's Merciful Beak",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Enchantment — Style ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Raven's Merciful Beak.png"
+	        }
+	    },
+	    {
+	        "name": "Red-Jade Headcarvers",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Red-Jade Headcarvers.png"
+	        }
+	    },
+	    {
+	        "name": "Hungering Henchman",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Hungering Henchman.png"
+	        }
+	    },
+	    {
+	        "name": "Dawn-Caste Armiger",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Dawn-Caste Armiger.png"
+	        }
+	    },
+	    {
+	        "name": "Oracular Navigator",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Reflection Wizard Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Oracular Navigator.png"
+	        }
+	    },
+	    {
+	        "name": "Heaven-Turning Calculations",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Heaven-Turning Calculations.png"
+	        }
+	    },
+	    {
+	        "name": "Eternal Puppet Strings",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Eternal Puppet Strings.png"
+	        }
+	    },
+	    {
+	        "name": "Cutthroat Politics",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{R}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Cutthroat Politics.png"
+	        }
+	    },
+	    {
+	        "name": "Danaisak's Firestorm",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{R}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Danaisak's Firestorm.png"
+	        }
+	    },
+	    {
+	        "name": "Arranger of Seasons",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{W}",
+	        "type": "Creature — God ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Arranger of Seasons.png"
+	        }
+	    },
+	    {
+	        "name": "Raven Eyes Tempest",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{W}{B}",
+	        "type": "Legendary Creature — Human Archer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Raven Eyes Tempest.png"
+	        }
+	    },
+	    {
+	        "name": "Admiral Zho Aarna",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{R}{R}",
+	        "type": "Legendary Creature — Elemental Pirate ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Admiral Zho Aarna.png"
+	        }
+	    },
+	    {
+	        "name": "Death Rides on Cruel Hooves",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Death Rides on Cruel Hooves.png"
+	        }
+	    },
+	    {
+	        "name": "Golden-Antler",
+	        "rarity": "rare",
+	        "mana_cost": "{R}{W}{W}",
+	        "type": "Legendary Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Golden-Antler.png"
+	        }
+	    },
+	    {
+	        "name": "Saroja, Chosen of Journeys",
+	        "rarity": "rare",
+	        "mana_cost": "{G}{U}{U}",
+	        "type": "Legendary Creature — Reflection Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Saroja, Chosen of Journeys.png"
+	        }
+	    },
+	    {
+	        "name": "Tombguard Automata",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact Creature — Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Tombguard Automata.png"
+	        }
+	    },
+	    {
+	        "name": "Reinforced Panoply",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Reinforced Panoply.png"
+	        }
+	    },
+	    {
+	        "name": "Shining Heartstone",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Shining Heartstone.png"
+	        }
+	    },
+	    {
+	        "name": "Imperial Decree",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Imperial Decree.png"
+	        }
+	    },
+	    {
+	        "name": "Grand Direlance",
+	        "rarity": "common",
+	        "mana_cost": "{5}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Grand Direlance.png"
+	        }
+	    },
+	    {
+	        "name": "Mountain-Pattern Blade",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Mountain-Pattern Blade.png"
+	        }
+	    },
+	    {
+	        "name": "Adjutant's Armor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Adjutant's Armor.png"
+	        }
+	    },
+	    {
+	        "name": "Jadeforge Anvil",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Jadeforge Anvil.png"
+	        }
+	    },
+	    {
+	        "name": "Skycutter Boomerang",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Skycutter Boomerang.png"
+	        }
+	    },
+	    {
+	        "name": "Ancient Observer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}",
+	        "type": "Artifact Creature — Eye ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Ancient Observer.png"
+	        }
+	    },
+	    {
+	        "name": "Underworld Grotto",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Underworld Grotto.png"
+	        }
+	    },
+	    {
+	        "name": "Lapidara Stronghold",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Lapidara Stronghold.png"
+	        }
+	    },
+	    {
+	        "name": "Thanoori Factory-Citadel",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Thanoori Factory-Citadel.png"
+	        }
+	    },
+	    {
+	        "name": "Imperial Garrison",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Imperial Garrison.png"
+	        }
+	    },
+	    {
+	        "name": "Worldway Archive",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Worldway Archive.png"
+	        }
+	    },
+	    {
+	        "name": "Azaran Necropolis",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Azaran Necropolis.png"
+	        }
+	    },
+	    {
+	        "name": "Raatkerian Port",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Raatkerian Port.png"
+	        }
+	    },
+	    {
+	        "name": "Figialtan Protectorate",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Figialtan Protectorate.png"
+	        }
+	    },
+	    {
+	        "name": "First-Age Temple",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/First-Age Temple.png"
+	        }
+	    },
+	    {
+	        "name": "Mothercrag Lighthouse",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Mothercrag Lighthouse.png"
+	        }
+	    },
+	    {
+	        "name": "Geomantic Disruption",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Geomantic Disruption.png"
+	        }
+	    },
+	    {
+	        "name": "Someone Else's Destiny",
+	        "rarity": "rare",
+	        "mana_cost": "{G}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Someone Else's Destiny.png"
+	        }
+	    },
+	    {
+	        "name": "Master of Five",
+	        "rarity": "rare",
+	        "mana_cost": "{U}{R}",
+	        "type": "Creature — Elemental Monk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Master of Five.png"
+	        }
+	    },
+	    {
+	        "name": "Unseen Scream of Endings",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{B}{B}{G}",
+	        "type": "Legendary Creature — Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Unseen Scream of Endings.png"
+	        }
+	    },
+	    {
+	        "name": "Magnaensis, Titan Slayer",
+	        "rarity": "rare",
+	        "mana_cost": "{2}",
+	        "type": "Legendary Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Magnaensis, Titan Slayer.png"
+	        }
+	    },
+	    {
+	        "name": "Godmother's Gift",
+	        "rarity": "rare",
+	        "mana_cost": "{2}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Godmother's Gift.png"
+	        }
+	    },
+	    {
+	        "name": "Erasyl's Tomb",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Legendary Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Erasyl's Tomb.png"
+	        }
+	    },
+	    {
+	        "name": "Five-Dragon Armor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Five-Dragon Armor.png"
+	        }
+	    },
+	    {
+	        "name": "Mastery of Earth",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Mastery of Earth.png"
+	        }
+	    },
+	    {
+	        "name": "Labyrinth Courser",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Labyrinth Courser.png"
+	        }
+	    },
+	    {
+	        "name": "Garda Flies on Gilded Wings",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Garda Flies on Gilded Wings.png"
+	        }
+	    },
+	    {
+	        "name": "Pillars of Reality",
+	        "rarity": "rare",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Pillars of Reality.png"
+	        }
+	    },
+	    {
+	        "name": "Vande, Dread Guardian",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{B}",
+	        "type": "Legendary Planeswalker — Vande ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Vande, Dread Guardian.png"
+	        }
+	    },
+	    {
+	        "name": "Gates of Battle",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Gates of Battle.png"
+	        }
+	    },
+	    {
+	        "name": "Orichalcum Juggernaut",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Orichalcum Juggernaut.png"
+	        }
+	    },
+	    {
+	        "name": "Plains",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Plains.png"
+	        }
+	    },
+	    {
+	        "name": "Island",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Island.png"
+	        }
+	    },
+	    {
+	        "name": "Swamp",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Swamp.png"
+	        }
+	    },
+	    {
+	        "name": "Mountain",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Mountain.png"
+	        }
+	    },
+	    {
+	        "name": "Forest",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Forest.png"
+	        }
+	    },
+	    {
+	        "name": "Mark for Endings",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/Mark for Endings.png"
+	        }
+	    },
+	    {
+	        "name": "The Wyld Hunt",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/CyberChronometer/Children-of-Dawn/main/COD-files/The Wyld Hunt.png"
+	        }
+	    }
+	]
+	[RareSlot(1)]
+		30 Myriad Radiant Prophet
+		30 Yongsyl, Daughter of Erasyl
+		30 Sunfire Interdictor
+		30 Haunted Blademaster
+		30 Break
+		30 Ascendant Battle Visage
+		30 Perfected Daikaive
+		30 Sorcerer-Savant
+		30 Frozen-Tide Sorcerer
+		30 The Zho Fleet Crushed
+		30 Anything, Saroja's Blade
+		30 Orria, Far from Home
+		30 Adamant Pattern of Truth
+		30 Fallen Wolf of the West
+		30 Dead Sun Duelist
+		30 Nameless Antihero
+		30 The Lion Forsaken
+		30 Veil of Night
+		30 Fool-Crushing Mountain Drop
+		30 Crimson Pentacle Blades
+		30 Kerthi, Itinerant Duelist
+		30 Denouncer of Anathema
+		30 Mukhauta Cicatrice
+		30 Schismatic Sunblader
+		30 Burning Soul Prana
+		30 Death Ray
+		30 Ruination Poise
+		30 Face Your Demons
+		30 Silver Faction Navigator
+		30 Horizon-Father Bekarys
+		30 House Pilla Ascetic
+		30 Panoply Collector
+		30 Shared Reminiscence
+		30 Munio Danaisak
+		30 Heaven's Light Unbound
+		30 Heaven-Turning Calculations
+		30 Eternal Puppet Strings
+		30 Cutthroat Politics
+		30 Danaisak's Firestorm
+		30 Arranger of Seasons
+		30 Raven Eyes Tempest
+		30 Admiral Zho Aarna
+		30 Death Rides on Cruel Hooves
+		30 Golden-Antler
+		30 Saroja, Chosen of Journeys
+		30 Geomantic Disruption
+		30 Someone Else's Destiny
+		30 Master of Five
+		30 Unseen Scream of Endings
+		30 Magnaensis, Titan Slayer
+		30 Godmother's Gift
+		30 Erasyl's Tomb
+		30 Mastery of Earth
+		30 Labyrinth Courser
+		30 Garda Flies on Gilded Wings
+		30 Pillars of Reality
+		30 Vande, Dread Guardian
+		30 Gates of Battle
+		30 Orichalcum Juggernaut
+	[UncommonSlot(3)]
+		50 Immaculate Influence
+		50 Soulsteel Chirurgeon
+		50 Blood Vortex Hand
+		50 Tempest Goremaul
+		50 Steelshatter Adept
+		50 Rectifier of Celestial Order
+		50 Orichalcum Metallurge
+		50 Taker of Crowns
+		50 Gatekeeper of Heaven
+		50 Steel-Devil Duelist
+		50 Ancestral Thaumaturge
+		50 Altipani Skyknight
+		50 Solar Charm
+		50 Heartstone Bracers
+		50 Armaments Reclaimed
+		50 Stormdaunt Swashbuckler
+		50 Thanoori Sharpshooters
+		50 Soulkeeper Privateer
+		50 Daiklaive Duelist
+		50 First-Age Reclaimer
+		50 Fleet Command Authority
+		50 Wave-Parting Walk
+		50 Sidereal Charm
+		50 Seek Time's Threads
+		50 Elemental Legacy
+		50 Ghost-Namer
+		50 Blood-Ape Bodyguard
+		50 Night-Caste Guerilla
+		50 Shaper of Flesh
+		50 Ancestor's Due
+		50 Abyssal Tutor
+		50 Abyssal Charm
+		50 Laughing Wounds Form
+		50 Deathknight Scythe
+		50 Pyretic Prodigy
+		50 Twinblade Hunter
+		50 Flamestaff Innovator
+		50 Decadent Dragonborn
+		50 House Munio Paragons
+		50 Duelist's Contemplation
+		50 Red-Jade Reaver
+		50 Puissant Salvage Sense
+		50 Terrestrial Charm
+		50 Invoke the Molten Kraken
+		50 Loyalty's Reward
+		50 Terrestrial Court
+		50 Wood-Dragon Huntcaller
+		50 Charging Oxdragon
+		50 Echo of the Elders
+		50 Silver General's Foresight
+		50 Enlightened Mentor
+		50 Lessons in Blood
+		50 Reaver's Daiklaive
+		50 Lunar Charm
+		50 As Hammer on Iron
+		50 Celestial Legacy
+		50 Leyline Architect
+		50 Shape the Labyrinth
+		50 Earth-Dragon Style
+		50 Blazing-Bow Shikari
+		50 Lord of the First Hunt
+		50 Raven's Merciful Beak
+		50 Hungering Henchman
+		50 Dawn-Caste Armiger
+		50 Oracular Navigator
+		50 Mountain-Pattern Blade
+		50 Adjutant's Armor
+		50 Jadeforge Anvil
+		50 Skycutter Boomerang
+		50 Ancient Observer
+		50 Underworld Grotto
+		50 Lapidara Stronghold
+		50 Thanoori Factory-Citadel
+		50 Imperial Garrison
+		50 Worldway Archive
+		50 Azaran Necropolis
+		50 Raatkerian Port
+		50 Figialtan Protectorate
+		50 First-Age Temple
+		50 Mothercrag Lighthouse
+		50 Five-Dragon Armor
+	[CommonSlot(10)]
+		50 Edict Etcher
+		50 Relic Salvager
+		50 Leaping Steelblood
+		50 Satrap's Dominion
+		50 Cycle-Charting Genius
+		50 Rabbit-Style Infiltrator
+		50 Eclipsing Arrow
+		50 Voice of the Sun
+		50 Censor of Celestial Crimes
+		50 Immaculate Festival
+		50 Celestial-Court Envoy
+		50 Plague-Cleansing Touch
+		50 Oaths Enforced
+		50 Hero's Journey
+		50 Thunder-Hammer Fist
+		50 Tiger-Claw Style
+		50 Prophetic Victory Confidence
+		50 Weight of Legacy
+		50 Azaran Sunspear
+		50 Manfestation of Winter
+		50 Anathema Seeker
+		50 Water-Dragon Master
+		50 Nameless Nemesis
+		50 Stargraced Confidant
+		50 Skycrystal Reliquarian
+		50 Sapphire Essence-Weaver
+		50 Altipani Rangers
+		50 Predestined Manuever
+		50 Perfect Evasion
+		50 Word of Dissolution
+		50 Harmonious Academic Method
+		50 Astral Guidance
+		50 Magistrate's Acuity
+		50 Infiltrator's Powerbow
+		50 Council of Masks
+		50 Head-Taker Juggernaut
+		50 Haunted Quaestor
+		50 Stoneshatter Dancer
+		50 Lapidara Monumentalist
+		50 Sunblade Saboteur
+		50 Death's Pawn
+		50 Dead Man's Grasp
+		50 Single Point Shining Into the Void
+		50 Sevenfold Sojourner Stance
+		50 Gather Materiel
+		50 Underworld Promises
+		50 Eminent Mistforged Arsenal
+		50 Death of Obsidian Butterflies
+		50 First-Circle Binding
+		50 Flamewheel Hunter
+		50 Thanoori Privateer
+		50 Sungraced Demagogue
+		50 Shikari's Armaments
+		50 Wavecleaver Corsair
+		50 Lightning Draw
+		50 Lapidara Dragonlord
+		50 Ghostbane Auxiliaries
+		50 Dreaming-Pearl Dancer
+		50 Dramatic Deployment
+		50 Sworn Siblings
+		50 Kingdom-Shattering Fist
+		50 Sledgehammer Fist Initiate
+		50 Fire-Dragon Style
+		50 Searing Anima
+		50 Height Advantage
+		50 Wealth of the Dragonborn
+		50 Sungraced Emissary
+		50 House Pilla Vanguard
+		50 Keepers of the Three Rivers
+		50 Witches of Figialta
+		50 Daudaka Warsteed
+		50 Wood-Dragon Outrider
+		50 Fate-Shrouded Wanderer
+		50 Avenger of Souls
+		50 Colossal Familiar
+		50 Hunter's Jade Coat
+		50 Memories of the First Age
+		50 Reunite the Circle
+		50 Unseen Scream's Revelations
+		50 Feats of Strength
+		50 Dragonsblood Inheritance
+		50 Void-Circle Spellreaver
+		50 Heroes Act, Villains React
+		50 Red-Jade Headcarvers
+		50 Tombguard Automata
+		50 Reinforced Panoply
+		50 Shining Heartstone
+		50 Imperial Decree
+		50 Grand Direlance
+		50 Mark for Endings
+	

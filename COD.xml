@@ -1,0 +1,3571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>COD</name>
+      <longname>Children of Dawn</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Edict Etcher</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice Edict Etcher: Exile target enchantment.</text>
+    </card>
+    <card>
+      <name>Relic Salvager</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Relic Salvager enters the battlefield, return target artifact or enchantment card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Leaping Steelblood</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Elemental Monk </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever an artifact or enchantment enters the battlefield under your control, Leaping Steelblood gets +1/+1 and gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>Satrap&apos;s Dominion</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Satrap’s Dominion enters the battlefield, create two 1/1 red Soldier creature tokens.
+5W, Exile Satrap’s Dominion: Return target artifact or enchantment card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Cycle-Charting Genius</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast your second spell each turn, Cycle-Charting Genius gets +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Rabbit-Style Infiltrator</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Rabbit-Style Infiltrator enters the battlefield, tap target permanent.</text>
+    </card>
+    <card>
+      <name>Eclipsing Arrow</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Archer </type>
+        <maintype>Creature</maintype>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Eclipsing Arrow has first strike and reach as long as you own five or more creature cards in exile and/or your graveyard.</text>
+    </card>
+    <card>
+      <name>Voice of the Sun</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you gain life for the first time each turn, scry 1 and put a +1/+1 counter on Voice of the Sun.</text>
+    </card>
+    <card>
+      <name>Censor of Celestial Crimes</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - God </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may cast this spell from your graveyard by exiling five cards from your graveyard as an additional cost to cast it.
+Censor of Celestial Crimes can’t block non-God creatures.</text>
+    </card>
+    <card>
+      <name>Immaculate Festival</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create three 1/1 white Monk creature tokens with lifelink.</text>
+    </card>
+    <card>
+      <name>Celestial-Court Envoy</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - God </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1W, Exile Celestial-Court Envoy from your graveyard: You gain 5 life.</text>
+    </card>
+    <card>
+      <name>Plague-Cleansing Touch</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card with mana value 2 or less from your graveyard to the battlefield.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Oaths Enforced</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target artifact, enchantment, or Demon.</text>
+    </card>
+    <card>
+      <name>Hero&apos;s Journey</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put two +1/+1 counters on target creature you control.
+Orchestrate 1W (You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, cast this from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Thunder-Hammer Fist</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Style </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Might 1 (This increases your might by 1 while you control it.)
+When Thunder-Hammer Fist enters the battlefield, it deals damage equal to your might to target attacking creature. Prevent all damage that creature would deal this turn.</text>
+    </card>
+    <card>
+      <name>Tiger-Claw Style</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Style </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Might 2 (This increases your might by 2 while you control it.)
+When Tiger-Claw Style enters the battlefield, it deals damage equal to your might to target tapped creature and you gain that much life.</text>
+    </card>
+    <card>
+      <name>Prophetic Victory Confidence</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +2/+2 until end of turn. When you next gain 3 or more life this turn, draw a card.</text>
+    </card>
+    <card>
+      <name>Weight of Legacy</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature can’t attack or block and its activated abilities can’t be activated.
+5W: Scry 2.</text>
+    </card>
+    <card>
+      <name>Azaran Sunspear</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever equipped creature attacks, it gets +1/+0 and gains flying and first strike until end of turn.
+Equip 1W</text>
+    </card>
+    <card>
+      <name>Manfestation of Winter</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - God </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Manfestation of Winter enters the battlefield, tap target creature. If you control three or more Plains, put a stun counter on it.</text>
+    </card>
+    <card>
+      <name>Anathema Seeker</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental Scout </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Shikari (When you attack with an enchanted creature and an equipped creature, begin the Wyld Hunt.)
+Whenever Anathema Seeker deals combat damage to an opponent, scry 1, then if you’ve begun the Wyld Hunt, draw a card.</text>
+    </card>
+    <card>
+      <name>Water-Dragon Master</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Elemental Monk </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Shikari (When you attack with an enchanted creature and an equipped creature, begin the Wyld Hunt.)
+As long as you’ve begun the Wyld Hunt, Water-Dragon Master gets +1/+0 and can’t be blocked.</text>
+    </card>
+    <card>
+      <name>Nameless Nemesis</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Nameless Nemesis enters the battlefield with two +1/+1 counters on it if it wasn’t cast from your hand.
+Orchestrate 3UU (You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, cast this from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Stargraced Confidant</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Reflection Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Orchestrate {U} (You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, cast this from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Skycrystal Reliquarian</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Skycrystal Reliquarian enters the battlefield, scry 3.</text>
+    </card>
+    <card>
+      <name>Sapphire Essence-Weaver</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elemental Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Sapphire Essence-Weaver enters the battlefield, counter target spell unless its controller pays {2}.</text>
+    </card>
+    <card>
+      <name>Altipani Rangers</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Whenever you cast a spell from exile, put a +1/+1 counter on Altipani Rangers.</text>
+    </card>
+    <card>
+      <name>Predestined Manuever</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell. The next time you cast a spell this turn, scry 1, then draw a card.</text>
+    </card>
+    <card>
+      <name>Perfect Evasion</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gains protection from target player until end of turn. (It can’t be blocked, targeted, dealt damage, or enchanted by anything controlled by that player.)</text>
+    </card>
+    <card>
+      <name>Word of Dissolution</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put target creature on top of its owner’s library. If you control three or more Swamps, you may have that player shuffle.</text>
+    </card>
+    <card>
+      <name>Harmonious Academic Method</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards.
+Orchestrate—{U}, Return a land you control to its owner’s hand. (You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, cast this from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Astral Guidance</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature to its owner’s hand. If you controlled it, draw a card.
+Orchestrate {U} (You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, cast this from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Magistrate&apos;s Acuity</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When Magistrate’s Acuity enters the battlefield, look at the top three cards of your library, then put them back in any order. You may shuffle.
+Enchanted creature can’t be blocked.</text>
+    </card>
+    <card>
+      <name>Immaculate Influence</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +1/+1.
+Whenever Immaculate Influence enters the battlefield or enchanted creature deals combat damage to an opponent, draw a card.</text>
+    </card>
+    <card>
+      <name>Infiltrator&apos;s Powerbow</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever equipped creature attacks, if you control three or more Mountains, you may tap target creature.
+Whenever equipped creature deals damage to an opponent, you may draw a card. If you do, discard a card.
+Equip {1}</text>
+    </card>
+    <card>
+      <name>Soulsteel Chirurgeon</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your end step, if you didn’t cast a spell this turn, you may return target creature card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Council of Masks</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elemental Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Council of Masks gets +1/+1 for each enchantment you control.
+As long as you control three or more Mountains, Council of Masks has menace.</text>
+    </card>
+    <card>
+      <name>Head-Taker Juggernaut</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>7B</manacost>
+        <cmc>8</cmc>
+        <type>Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>6/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {1} less to cast for each enchantment you control.
+Haste</text>
+    </card>
+    <card>
+      <name>Haunted Quaestor</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Knight Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch, lifelink
+When Haunted Quaestor enters the battlefield, you draw a card and you lose 1 life.</text>
+    </card>
+    <card>
+      <name>Stoneshatter Dancer</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5BB</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>5/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Stoneshatter Dancer enters the battlefield, each opponent loses 5 life and you gain 5 life.</text>
+    </card>
+    <card>
+      <name>Lapidara Monumentalist</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elemental Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}, Pay 1 life: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Sunblade Saboteur</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you gain life for the first time each turn, Sunblade Saboteur deals 2 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>Death&apos;s Pawn</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Orchestrate costs you pay cost {1} less to pay.
+Whenever you cast a spell from exile, you lose 2 life.</text>
+    </card>
+    <card>
+      <name>Dead Man&apos;s Grasp</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Style </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Might 1 (This increases your might by 1 while you control it.)
+When Dead Man’s Grasp enters the battlefield, it deals damage equal to your might to target creature or planeswalker. If that permanent would die this turn, exile it instead.</text>
+    </card>
+    <card>
+      <name>Blood Vortex Hand</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>6B</manacost>
+        <cmc>7</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +4/+4 and has lifelink.
+2B, Reveal Blood Vortex Hand from your hand and shuffle it into your library: Destroy target creature. You lose life equal to its mana value.</text>
+    </card>
+    <card>
+      <name>Single Point Shining Into the Void</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Style </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Might 2 (This increases your might by 2 while you control it.)
+When Single Point Shining Into the Void enters the battlefield, it deals damage equal to your might to each opponent and you gain life equal to the damage dealt this way.</text>
+    </card>
+    <card>
+      <name>Sevenfold Sojourner Stance</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Style </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Might 1 (This increases your might by 1 while you control it.)
+When Sevenfold Sojourner Stance enters the battlefield, it deals damage equal to your might to target blocking creature. If you control three or more Plains, you gain that much life.</text>
+    </card>
+    <card>
+      <name>Gather Materiel</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player discards two cards. Put the top six cards of your library into your graveyard.</text>
+    </card>
+    <card>
+      <name>Underworld Promises</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card from your graveyard to your hand. You gain life equal to its power.</text>
+    </card>
+    <card>
+      <name>Eminent Mistforged Arsenal</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +1/+1 and gains lifelink until end of turn. If Eminent Mistforged Arsenal wasn’t cast from your hand, instead it gets +5/+5 and gains lifelink until end of turn.
+Orchestrate 3BB (You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, cast this from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Death of Obsidian Butterflies</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target opponent sacrifices a creature. If Death of Obsidian Butterflies wasn’t cast from your hand, that player also sacrifices an enchantment that wasn’t enchanting that creature.
+Orchestrate 4B (You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, cast this from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>First-Circle Binding</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5B</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 5/5 black Demon creature token.
+Orchestrate—1BB, Discard a card. (You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, cast this from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Flamewheel Hunter</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elemental Monk </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Shikari (When you attack with an enchanted creature and an equipped creature, begin the Wyld Hunt.)
+As long as you’ve begun the Wyld Hunt, Flamewheel Hunter has trample and reach.</text>
+    </card>
+    <card>
+      <name>Thanoori Privateer</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Ward—Pay 3 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)</text>
+    </card>
+    <card>
+      <name>Sungraced Demagogue</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Noncreature spells you cast cost {1} less to cast.</text>
+    </card>
+    <card>
+      <name>Shikari&apos;s Armaments</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +2/+1 until end of turn. You may attach an Aura or Equipment you control to it.</text>
+    </card>
+    <card>
+      <name>Wavecleaver Corsair</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elemental Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Shikari (When you attack with an enchanted creature and an equipped creature, begin the Wyld Hunt.)
+Whenever Wavecleaver Corsair deals combat damage to an opponent, if you’ve begun the Wyld Hunt, add RRR at the beginning of your next main phase.</text>
+    </card>
+    <card>
+      <name>Lightning Draw</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature you control
+Enchanted creature gets +1/+1.
+1U: Return Lightning Draw and enchanted creature to their owners’ hands.</text>
+    </card>
+    <card>
+      <name>Lapidara Dragonlord</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5R</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Elemental Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>5/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Lapidara Dragonlord enters the battlefield, destroy target land.</text>
+    </card>
+    <card>
+      <name>Ghostbane Auxiliaries</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Shikari (When you attack with an enchanted creature and an equipped creature, begin the Wyld Hunt.)
+As long as it’s your turn and you’ve begun the Wyld Hunt, Ghostbane Auxiliaries gets +2/+0.</text>
+    </card>
+    <card>
+      <name>Dreaming-Pearl Dancer</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Monk </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as you control three or more Plains, Dreaming-Pearl Dancer has first strike.
+When Dreaming-Pearl Dancer enters the battlefield, exile the top four cards of your library. You may cast up to one noncreature, nonland card from among them until the end of your next turn.</text>
+    </card>
+    <card>
+      <name>Dramatic Deployment</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create three tapped 1/1 red Soldier creature tokens. The next time you cast a noncreature spell this turn, untap those tokens and they gain haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Sworn Siblings</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each creature you control that’s enchanted or equipped gets +3/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Kingdom-Shattering Fist</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Style </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Might 1 (This increases your might by 1 while you control it.)
+When Kingdom-Shattering Fist enters the battlefield, destroy up to one target artifact. If you do, it deals damage to that artifact’s controller equal to your might.</text>
+    </card>
+    <card>
+      <name>Sledgehammer Fist Initiate</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elemental Monk </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Sledgehammer Fist Initiate enters the battlefield, put a stun counter on target land.</text>
+    </card>
+    <card>
+      <name>Fire-Dragon Style</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Style </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Might 2 (This increases your might by 2 while you control it.)
+When Fire-Dragon Style enters the battlefield, it deals damage equal to your might to any target.</text>
+    </card>
+    <card>
+      <name>Searing Anima</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Shikari (When you attack with an enchanted creature and an equipped creature, begin the Wyld Hunt.)
+Enchanted creature gets +3/+0. If you’ve begun the Wyld Hunt, enchanted creature has menace.</text>
+    </card>
+    <card>
+      <name>Height Advantage</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When Height Advantage enters the battlefield, creatures without flying can’t block this turn.
+Enchanted creature gets +2/+2.</text>
+    </card>
+    <card>
+      <name>Tempest Goremaul</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Shikari (When you attack with an enchanted creature and an equipped creature, begin the Wyld Hunt.)
+Equipped creature gets +3/+0.
+Whenever equipped creature deals combat damage to an opponent, if you’ve begun the Wyld Hunt, you may pay {U}. If you do, draw a card.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Wealth of the Dragonborn</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw cards equal to the number of noncreature, nonland permanents you control, then discard that many cards.</text>
+    </card>
+    <card>
+      <name>Sungraced Emissary</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Sungraced Emissary enters the battlefield, if you control three or more Plains, create a 2/2 white God creature token.
+Whenever another creature you control dies, you gain 2 life.</text>
+    </card>
+    <card>
+      <name>House Pilla Vanguard</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental Knight </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Shikari (When you attack with an enchanted creature and an equipped creature, begin the Wyld Hunt.)
+Whenever House Pilla Vanguard attacks, if you’ve begun the Wyld Hunt, put a +1/+1 counter on it.</text>
+    </card>
+    <card>
+      <name>Keepers of the Three Rivers</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - God </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As a creature enters the battlefield under your control, you may pay 2G and exile Keepers of the Three Rivers from your graveyard. If you do, that creature enters the battlefield with three +1/+1 counters on it.</text>
+    </card>
+    <card>
+      <name>Witches of Figialta</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+1G, Discard a card: You gain 3 life.</text>
+    </card>
+    <card>
+      <name>Daudaka Warsteed</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Rhino </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Daudaka Warsteed enters the battlefield, put a +1/+1 counter on target creature you control.</text>
+    </card>
+    <card>
+      <name>Wood-Dragon Outrider</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elemental Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Shikari (When you attack with an enchanted creature and an equipped creature, begin the Wyld Hunt.)
+Wood-Dragon Outrider has ward {2} as long as you’ve begun the Wyld Hunt. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)</text>
+    </card>
+    <card>
+      <name>Fate-Shrouded Wanderer</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Reflection Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Fate-Shrouded Wanderer enters the battlefield, you may put a basic land card from your hand onto the battlefield tapped. Then if you control three or more Islands, draw a card.</text>
+    </card>
+    <card>
+      <name>Avenger of Souls</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Shaman Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Avenger of Souls gets +2/+2 as long as you own five or more creature cards in exile and/or your graveyard.</text>
+    </card>
+    <card>
+      <name>Colossal Familiar</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5GG</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Chimera </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Colossal Familiar attacks, put a +1/+1 counter on another target attacking creature you control.</text>
+    </card>
+    <card>
+      <name>Hunter&apos;s Jade Coat</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Shikari (When you attack with an enchanted creature and an equipped creature, begin the Wyld Hunt.)
+Equipped creature gets +1/+1. If you’ve begun the Wyld Hunt, prevent all damage that would be dealt to it.
+Equip {1}</text>
+    </card>
+    <card>
+      <name>Memories of the First Age</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, return a permanent you control to its owner’s hand.
+Target permanent you control gains hexproof and indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Reunite the Circle</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Reveal the top five cards of your library. Put up to two Aura, Equipment, and/or creature cards from among them into your hand and the rest into your graveyard.</text>
+    </card>
+    <card>
+      <name>Unseen Scream&apos;s Revelations</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a basic land card and put it onto the battlefield tapped, then shuffle. Then if you control three or more Swamps, you may return a creature or land card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Feats of Strength</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When Feats of Strength enters the battlefield, destroy up to one target artifact or enchantment.
+Enchanted creature gets +1/+0 and has trample.</text>
+    </card>
+    <card>
+      <name>Dragonsblood Inheritance</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Enchant creature
+Enchanted creature gets +2/+2. If you control three or more Mountains, instead it gets +5/+2.</text>
+    </card>
+    <card>
+      <name>Steelshatter Adept</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elemental Monk </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prevent all damage that would be dealt by creatures blocking or blocked by Steelshatter Adept.
+Whenever Steelshatter Adept deals combat damage to an opponent, that player sacrifices an artifact or enchantment.</text>
+    </card>
+    <card>
+      <name>Rectifier of Celestial Order</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Monk </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Rectifier of Celestial Order enters the battlefield or attacks, tap target creature.
+Orchestrate 1W (You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, cast this from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Orichalcum Metallurge</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Orichalcum Metallurge enters the battlefield, search your library for an artifact or enchantment card, reveal it, put it into your hand, then shuffle.
+Equipped creatures you control get +1/+1.</text>
+    </card>
+    <card>
+      <name>Taker of Crowns</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+{T}, Sacrifice Taker of Crowns: Exile target creature. Activate this ability only if you have at least 10 life more than your starting life total.</text>
+    </card>
+    <card>
+      <name>Gatekeeper of Heaven</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - God </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Gatekeeper of Heaven enters the battlefield, if you own five or more creature cards in exile and/or your graveyard, exile target non-God creature or planeswalker until Gatekeeper of Heaven leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>Steel-Devil Duelist</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Double strike
+Whenever you cast an enchantment spell, you may pay WW. If you do, draw a card and put a +1/+1 counter on Steel-Devil Duelist.</text>
+    </card>
+    <card>
+      <name>Ancestral Thaumaturge</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>3WW, Exile a creature card with mana value 2 or less from your graveyard: Create a tapped token that’s a copy of that card except it has no mana cost and it’s a Spirit in addition to its other types.</text>
+    </card>
+    <card>
+      <name>Altipani Skyknight</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Archer Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+{W}, Return Altipani Skyknight to its owner’s hand: Put a +1/+1 counter on another target creature.</text>
+    </card>
+    <card>
+      <name>Solar Charm</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>WW</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Exile target artifact.
+• Target creature gets +1/+1 for each enchantment you control and gains lifelink until end of turn.
+• Each player puts up to three cards from their hand onto the bottom of their library in any order, then draws that many cards.</text>
+    </card>
+    <card>
+      <name>Heartstone Bracers</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>5W: Equipped creature gets +3/+3 until end of turn. Activate only once each turn. This ability costs {1} less to activate for each other artifact and enchantment you control.
+Equip {W}</text>
+    </card>
+    <card>
+      <name>Armaments Reclaimed</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for an artifact or enchantment card, reveal it, shuffle, then put that card on top of your library. If it has a subtype, draw a card.</text>
+    </card>
+    <card>
+      <name>Stormdaunt Swashbuckler</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Orchestrate 5U (You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, cast this from exile without paying its mana cost.)
+When Stormdaunt Swashbuckler enters the battlefield, draw a card for each spell you cast this turn.</text>
+    </card>
+    <card>
+      <name>Thanoori Sharpshooters</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Pirate Archer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+When Thanoori Sharpshooters enters the battlefield, return target nonland permanent to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Soulkeeper Privateer</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elemental Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Shikari (When you attack with an enchanted creature and an equipped creature, begin the Wyld Hunt.)
+Whenever Soulkeeper Privateer attacks, if you’ve begun the Wyld Hunt, choose up to four target cards in a single graveyard. Their owner shuffles them into their library.</text>
+    </card>
+    <card>
+      <name>Daiklaive Duelist</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>6U</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+This spell costs {2} less to cast for each orchestrated card you own in exile.</text>
+    </card>
+    <card>
+      <name>First-Age Reclaimer</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Orchestrate 1U (You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, cast this from exile without paying its mana cost.)
+When First-Age Reclaimer enters the battlefield, add CCC. You can’t spend this mana to cast spells.</text>
+    </card>
+    <card>
+      <name>Fleet Command Authority</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5U</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature has base power and toughness 8/8.
+Whenever enchanted creature attacks, create a basic colorless Island land token.</text>
+    </card>
+    <card>
+      <name>Wave-Parting Walk</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target creature or enchantment spell. If that spell is countered this way, you may exile a creature or enchantment you control, then return it to the battlefield tapped under your control.</text>
+    </card>
+    <card>
+      <name>Sidereal Charm</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>UU</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Untap target permanent. Return Sidereal Charm to its owner’s hand at the beginning of the next end step.
+• Return target permanent you own to your hand.
+• Look at the top three cards of your library. Put one of them into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Seek Time&apos;s Threads</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a card with orchestrate, reveal it, put it into your hand, then shuffle. If this spell wasn’t cast from your hand, you may pay {0} instead of the next orchestrate cost you pay this turn.
+Orchestrate 4U (You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, cast this from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Elemental Legacy</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +2/+0.
+When Elemental Legacy is put into a graveyard from the battlefield, return Elemental Legacy to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Ghost-Namer</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Ghost-Namer enters the battlefield, mill two cards.
+3BB, {T}, Exile Ghost-Namer: Return target creature card from your graveyard to the battlefield tapped. It gains indestructible until the end of your next turn.</text>
+    </card>
+    <card>
+      <name>Blood-Ape Bodyguard</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Demon Ape </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Whenever another nontoken creature enters the battlefield under your control, if it wasn’t cast from your hand, put two +1/+1 counters on it.</text>
+    </card>
+    <card>
+      <name>Night-Caste Guerilla</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice an enchantment: Night-Caste Guerilla gains first strike until end of turn.
+Whenever a creature dealt damage by Night-Caste Guerilla this turn dies, return target enchantment card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Void-Circle Spellreaver</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast your second spell each turn, Void-Circle Spellreaver gets +2/+0 and gains menace until end of turn.</text>
+    </card>
+    <card>
+      <name>Shaper of Flesh</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>6BBB</manacost>
+        <cmc>9</cmc>
+        <type>Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, lifelink
+Orchestrate—4BB, Pay 6 life. (You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, cast this from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Heroes Act, Villains React</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature or land. The next time you cast a spell this turn, create two 1/1 black Skeleton creature tokens.</text>
+    </card>
+    <card>
+      <name>Ancestor&apos;s Due</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>2B, Exile three cards from your graveyard: You gain 1 life and draw a card.</text>
+    </card>
+    <card>
+      <name>Abyssal Tutor</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a card and put it into your graveyard, then shuffle. If this spell wasn’t cast from your hand, put that card into your hand instead of your graveyard.
+Orchestrate 2BB (You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, cast this from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Abyssal Charm</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>BB</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one  —
+• Destroy target creature with power 2 or less.
+• Return target creature or planeswalker card from your graveyard to your hand.
+• You gain 2 life for each creature that died this turn.</text>
+    </card>
+    <card>
+      <name>Laughing Wounds Form</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Style </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Might 1 (This increases your might by 1 while you control it.)
+When Laughing Wounds Form enters the battlefield, it deals damage equal to your might to any target. If a player is dealt damage this way, that player discards a card.</text>
+    </card>
+    <card>
+      <name>Deathknight Scythe</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a nontoken creature enters the battlefield under your control, if it wasn’t cast from your hand, you may attach Deathknight Scythe to it.
+Equipped creature gets +4/+0 and has menace.
+Equip 6B</text>
+    </card>
+    <card>
+      <name>Pyretic Prodigy</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Elemental Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, exile the top card of your library. If it’s an artifact or enchantment card, you may cast it this turn.</text>
+    </card>
+    <card>
+      <name>Twinblade Hunter</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Shikari (When you attack with an enchanted creature and an equipped creature, begin the Wyld Hunt.)
+As long as it’s your turn and you’ve begun the Wyld Hunt, Twinblade Hunter has double strike.</text>
+    </card>
+    <card>
+      <name>Flamestaff Innovator</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1R: Flamestaff Innovator gets +X/+0 until end of turn, where X is the number of enchantments you control.</text>
+    </card>
+    <card>
+      <name>Decadent Dragonborn</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elemental Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creatures you control have defender.
+Enchantment spells you cast cost {2} less to cast.</text>
+    </card>
+    <card>
+      <name>House Munio Paragons</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elemental Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Shikari (When you attack with an enchanted creature and an equipped creature, begin the Wyld Hunt.)
+{R}: Target creature can’t block this turn. Activate only if House Munio Paragons is attacking and you’ve begun the Wyld Hunt.</text>
+    </card>
+    <card>
+      <name>Duelist&apos;s Contemplation</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Up to one target creature an opponent controls blocks an enchanted creature this turn if able.
+Up to one target creature an opponent controls blocks an equipped creature this turn if able.
+Untap those creatures.</text>
+    </card>
+    <card>
+      <name>Red-Jade Reaver</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Red-Jade Reaver enters the battlefield, add RRRRR. Spend this mana only to cast Aura and Equipment spells and pay equip costs.</text>
+    </card>
+    <card>
+      <name>Puissant Salvage Sense</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you cast Puissant Salvage Sense or another noncreature spell, search your library for a Mountain card, reveal it, put it into your hand, then shuffle.
+XXR, Exile Puissant Salvage Sense: Return X target noncreature, nonland cards from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Terrestrial Charm</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>RR</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Attach target Equipment to target creature.
+• If a source you control would deal damage this turn, instead it deals that much damage plus 1.
+• Create two tapped 1/1 red Soldier creature tokens.</text>
+    </card>
+    <card>
+      <name>Invoke the Molten Kraken</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target opponent sacrifices an artifact and a nonbasic land.
+The next time you play a card from exile this turn, add RRRR.</text>
+    </card>
+    <card>
+      <name>Loyalty&apos;s Reward</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a token that’s a copy of target noncreature artifact or enchantment you control. Exile it at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Terrestrial Court</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - God Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Terrestrial Court or another God enters the battlefield under your control, reveal the top two cards of your library. Put up to one permanent card from among them into your hand and the rest into your graveyard.</text>
+    </card>
+    <card>
+      <name>Wood-Dragon Huntcaller</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elemental Monk </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Shikari (When you attack with an enchanted creature and an equipped creature, begin the Wyld Hunt.)
+At the beginning of your end step, if you’ve begun the Wyld Hunt, create a tapped 1/1 white Monk creature token with lifelink.</text>
+    </card>
+    <card>
+      <name>Charging Oxdragon</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>7G</manacost>
+        <cmc>8</cmc>
+        <type>Creature - Dinosaur </type>
+        <maintype>Creature</maintype>
+        <pt>8/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, haste
+Protection from mana value 2 or less (This creature can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything with mana value 2 or less.)</text>
+    </card>
+    <card>
+      <name>Echo of the Elders</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Illusion Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>The first time one or more land cards are put into your graveyard from anywhere each turn, put a +1/+1 counter on Echo of the Elders.
+{T}, Remove a counter from a creature you control: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Silver General&apos;s Foresight</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5G</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Whenever enchanted creature attacks, creatures you control get +4/+4 until end of turn.</text>
+    </card>
+    <card>
+      <name>Enlightened Mentor</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Reflection Monk </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)
+At the beginning of your upkeep, return a nonland permanent you control to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Lessons in Blood</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target noncreature permanent. You may return a creature you control to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Reaver&apos;s Daiklaive</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +3/+3.
+Whenever a creature with mana value 5 or greater enters the battlefield under your control, attach Reaver’s Daiklaive to it. It gains haste until end of turn.
+Equip 3G</text>
+    </card>
+    <card>
+      <name>Lunar Charm</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>GG</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Return target land card from your graveyard to the battlefield tapped.
+• Target attacking creature you control fights another target creature.
+• Copy target triggered ability you control. You may choose new targets for the copy.</text>
+    </card>
+    <card>
+      <name>As Hammer on Iron</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you gain life, scry 1 and put a flurry counter on As Hammer on Iron.
+2W, Remove seven flurry counters from As Hammer on Iron and sacrifice it: Creatures you control get +3/+3 until end of turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Celestial Legacy</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +2/+2 and can’t be blocked by tokens.
+When Celestial Legacy is put into a graveyard from the battlefield, return Celestial Legacy to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Myriad Radiant Prophet</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>5W</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Myriad Radiant Prophet enters the battlefield, create a 2/2 white God creature token for each creature card in your graveyard and/or exile.
+Gods you control have lifelink.</text>
+    </card>
+    <card>
+      <name>Yongsyl, Daughter of Erasyl</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Indestructible
+Whenever a creature dealt damage by Yongsyl, Daughter of Erasyl this turn dies, put a +1/+1 counter on her.
+Yongsyl can’t attack or block unless you pay {X}, where X is her power.</text>
+    </card>
+    <card>
+      <name>Sunfire Interdictor</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>WW</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Archer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Whenever Sunfire Interdictor enters the battlefield or attacks, exile up to one target card from a graveyard and put an arrow counter on it.
+1W, Remove an arrow counter from a card an opponent owns in exile: Sunfire Interdictor gets +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Haunted Blademaster</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {4}
+Noncreature permanents you control have ward {1}.
+Whenever you cast a noncreature spell, create a 1/1 colorless Spirit creature token.</text>
+    </card>
+    <card>
+      <name>Break</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose target creature. Destroy the rest, then that creature’s base power and toughness become 1/1.</text>
+    </card>
+    <card>
+      <name>Ascendant Battle Visage</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Style </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Might 1 (This increases your might by 1 while you control it.)
+When Ascendant Battle Visage enters the battlefield, the next X damage that would be dealt to you and/or permanents you control this turn is dealt to any target instead, where X is your might.</text>
+    </card>
+    <card>
+      <name>Perfected Daikaive</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If equipped creature would deal less than 3 damage to a permanent or player, it deals 3 damage instead.
+If a source would deal more than 3 damage to equipped creature, it deals 3 damage instead.
+Equip {W}</text>
+    </card>
+    <card>
+      <name>Sorcerer-Savant</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Sorcerer-Savant enters the battlefield, target player puts their graveyard onto the bottom of their library in a random order.
+Sorcerer-Savant can’t be blocked unless defending player pays {3} for each creature blocking it.</text>
+    </card>
+    <card>
+      <name>Frozen-Tide Sorcerer</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Elemental Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward—Skip your next untap step.
+Whenever Frozen-Tide Sorcerer deals combat damage to a player, untap up to that many target permanents you control.</text>
+    </card>
+    <card>
+      <name>The Zho Fleet Crushed</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player returns each creature they own to their hand.
+If you’ve begun the Wyld Hunt, you may have each player shuffle their hand into their library, then draw cards equal to the greatest number of cards any player had in their hand.</text>
+    </card>
+    <card>
+      <name>Anything, Saroja&apos;s Blade</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever equipped creature becomes the target of a spell, you may exile that creature until Anything, Saroja’s Blade leaves the battlefield.
+{U}: Shuffle Anything into your library, then draw a card. You may put a card named Anything, Saroja’s Blade from your hand onto the battlefield and attach it to a creature you control.
+Equip {U}</text>
+    </card>
+    <card>
+      <name>Orria, Far from Home</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Orria </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>2</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you cast a spell or activate an ability without paying its cost or for 0 for the first time each turn, put a loyalty counter on Orria.
+[+1]: Put a stun counter on target permanent.
+[-X]: Reveal the top twice X cards of your library. An opponent separates them into two piles. Put one pile into your hand and the other into your graveyard.
+</text>
+    </card>
+    <card>
+      <name>Adamant Pattern of Truth</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WWU</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell for an alternative cost, create a colorless Keystone artifact token with “{1}, {T}: You gain 1 life.” (“Without paying its mana cost” is an alternative cost.)
+{T}, Sacrifice seven Keystones: You can cast spells without paying their mana costs. (This effect lasts indefinitely.)</text>
+    </card>
+    <card>
+      <name>Fallen Wolf of the West</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>2UBB</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fallen Wolf of the West can’t be blocked by creatures with power less than or equal to the number of cards in your graveyard.
+Whenever Fallen Wolf of the West attacks, you may exile target nonland card from your graveyard. If you do, when you next resolve a spell, cast it from exile without paying its mana cost.</text>
+    </card>
+    <card>
+      <name>Dead Sun Duelist</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Dead Sun Duelist attacks, put a +1/+1 counter on it.
+XB, {T}, Remove X +1/+1 counters from Dead Sun Duelist: Search your library for an enchantment card with mana value X and put it onto the battlefield, then shuffle. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Nameless Antihero</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Orchestrate 2BB
+When Nameless Antihero enters the battlefield, look at the top three cards of target opponent’s library, exile one of them face-down, and put the rest on the bottom of their library in a random order. If Nameless Antihero was cast from exile, instead exile each of those cards face-down. You may play each card exiled this way as long as it remains exiled, and mana of any type may be spent to cast it.</text>
+    </card>
+    <card>
+      <name>The Lion Forsaken</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Spirit Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Once during each of your turns while you have more life than each opponent, you may cast an enchantment spell from your graveyard by paying life equal equal to its mana value rather than its mana cost.
+When The Lion Forsaken dies, shuffle it and any number of enchantment cards from your graveyard into your library.</text>
+    </card>
+    <card>
+      <name>Veil of Night</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, enchantments you control gain “Pay 1 life, Sacrifice this enchantment: Draw a card.”</text>
+    </card>
+    <card>
+      <name>Fool-Crushing Mountain Drop</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player reveals their hand. You may exile a legendary card from it. If you don’t, that player discards a card and loses 1 life.</text>
+    </card>
+    <card>
+      <name>Crimson Pentacle Blades</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>BB</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Style </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Might 3 (This increases your might by 3 while you control it.)
+When Crimson Pentacle Blades enters the battlefield, it deals damage to each player equal to your might.</text>
+    </card>
+    <card>
+      <name>Kerthi, Itinerant Duelist</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BRR</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Elemental Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike, haste
+Whenever Kerthi, Itinerant Duelist attacks, up to one target creature an opponent controls blocks her this turn if able.</text>
+    </card>
+    <card>
+      <name>Denouncer of Anathema</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Elemental Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Shikari (When you attack with an enchanted creature and an equipped creature, begin the Wyld Hunt.)
+2R: Create a red Aura enchantment token named Incitement. It has enchant creature and “Enchanted creature has haste and can’t block.” This ability costs {2} less to activate if you’ve begun the Wyld Hunt.</text>
+    </card>
+    <card>
+      <name>Mukhauta Cicatrice</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Elemental Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Mukhauta Cicatrice enters the battlefield, copy target instant or sorcery spell you control. You may choose new targets for the copy.
+{R}, Sacrifice another nonland permanent: Exile Cicatrice and the top card of your library. You may play those cards until your next end step.</text>
+    </card>
+    <card>
+      <name>Schismatic Sunblader</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Cleric Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Schismatic Sunblader can’t be blocked except by all creatures defending player controls.
+If an enchantment you control entering the battlefield causes a triggered ability of that permanent to trigger, that ability triggers an additional time.</text>
+    </card>
+    <card>
+      <name>Burning Soul Prana</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Whenever you cast Burning Soul Prana or another Aura spell, exile the top card of your library. You may play that card until the end of your next turn.
+Whenever you play a card from exile, enchanted creature gets +2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Death Ray</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you cast a spell from exile, exile the top card of your library, then put an aim counter on Death Ray. You may play that card this turn.
+Remove ten aim counters from Death Ray and sacrifice it: It deals 40 damage to target player.</text>
+    </card>
+    <card>
+      <name>Ruination Poise</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment - Style </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Might 3 (This increases your might by 3 while you control it.)
+When Ruination Poise enters the battlefield, if you cast it from your hand, it deals damage equal to your might to each creature. Each player sacrifices that many lands.</text>
+    </card>
+    <card>
+      <name>Face Your Demons</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Discard your hand, then draw three cards.
+If you spent WUBRG to cast this spell, you may cast any number of cards drawn this way without paying their mana costs.
+Exile Face Your Demons.</text>
+    </card>
+    <card>
+      <name>Silver Faction Navigator</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5G</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Reflection Scout </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Silver Faction Navigator enters the battlefield, return target land card from your graveyard to the battlefield. It becomes an 8/8 Shapeshifter creature. It’s still a land.</text>
+    </card>
+    <card>
+      <name>Horizon-Father Bekarys</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - God </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Horizon-Father Bekarys is put into your graveyard from anywhere, at the beginning of the next upkeep, return him to your hand unless an opponent pays {4}.
+Lands you control have “{T}: Add one mana of any color. You gain 1 life.”</text>
+    </card>
+    <card>
+      <name>House Pilla Ascetic</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elemental Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Shikari (When you attack with an enchanted creature and an equipped creature, begin the Wyld Hunt.)
+When House Pilla Ascetic enters the battlefield, spells can’t be countered this turn.
+As long as you’ve begun the Wyld Hunt, your opponents can’t cast spells during your turn.</text>
+    </card>
+    <card>
+      <name>Panoply Collector</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>X2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Panoply Collector enters the battlefield with X +1/+1 counters on it.
+When Panoply Collector enters the battlefield, reveal the top X cards of your library. You may put each Aura or Equipment card with mana value X or less from among them onto the battlefield attached to Panoply Collector. Put the rest into your graveyard.</text>
+    </card>
+    <card>
+      <name>Shared Reminiscence</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return up to two cards from your graveyard to your hand. Put Shared Reminiscence on the bottom of its owner’s library.</text>
+    </card>
+    <card>
+      <name>Munio Danaisak</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RRG</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Elemental Archer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Shikari (When you attack with an enchanted creature and an equipped creature, begin the Wyld Hunt.)
+Whenever a permanent you control becomes the target of a spell or ability an opponent controls, if you’ve begun the Wyld Hunt, Munio Danaisak deals 3 damage to any target.</text>
+    </card>
+    <card>
+      <name>Heaven&apos;s Light Unbound</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GWW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Reach
+GW, Exile a creature card from your graveyard: Heaven’s Light Unbound deals 1 damage to each attacking creature.</text>
+    </card>
+    <card>
+      <name>Leyline Architect</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Protection from unenchanted, unequipped creatures
+Orchestrate WU (You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, cast this from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Shape the Labyrinth</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You draw two cards and lose 2 life. If Shape the Labyrinth wasn’t cast from your hand, exile it and untap each land you control.
+Orchestrate 4UB (You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, cast this from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Earth-Dragon Style</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Style </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Might 2 (This increases your might by 2 while you control it.)
+When Earth-Dragon Style enters the battlefield, it deals damage equal to your might to target creature or planeswalker.
+4B: Destroy target creature or planeswalker that was dealt damage this turn.</text>
+    </card>
+    <card>
+      <name>Blazing-Bow Shikari</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Elemental Archer </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Shikari (When you attack with an enchanted creature and an equipped creature, begin the Wyld Hunt.)
+Blazing-Bow Shikari attacks each turn if able.
+{G}: Blazing-Bow Shikari gains hexproof until end of turn. Activate this ability only if you’ve begun the Wyld Hunt.</text>
+    </card>
+    <card>
+      <name>Lord of the First Hunt</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - God </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Lord of the First Hunt enters the battlefield, return target creature card with mana value 2 or less from your graveyard to the battlefield.
+2G, Exile Lord of the First Hunt from your graveyard: Reveal the top five cards of your library. Put a creature card from among them into your hand and the rest into your graveyard.</text>
+    </card>
+    <card>
+      <name>Raven&apos;s Merciful Beak</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Style </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Might 1 (This increases your might by 1 while you control it.)
+When Raven’s Merciful Beak enters the battlefield, you gain 3 life.
+Whenever you gain life, you may pay 2B. If you do, each opponent loses life equal to your might.</text>
+    </card>
+    <card>
+      <name>Red-Jade Headcarvers</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever equipped creature deals combat damage to an opponent, put a +1/+1 counter on it.
+4RR: Equipped creature gains double strike until end of turn.
+Equip 1R</text>
+    </card>
+    <card>
+      <name>Hungering Henchman</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card from your graveyard to the battlefield. At the beginning of your next upkeep, sacrifice it unless you pay 1G.</text>
+    </card>
+    <card>
+      <name>Dawn-Caste Armiger</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a noncreature spell, Dawn-Caste Armiger gets +1/+0 until end of turn. If you spent {R} to cast that spell, Dawn-Caste Armiger gains first strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Oracular Navigator</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Reflection Wizard Scout </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Oracular Navigator enters the battlefield, if it was cast, exile target permanent you control, then return it to the battlefield under your control.
+1G, {T}: Return Oracular Navigator to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Heaven-Turning Calculations</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WU</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+When Heaven-Turning Calculations enters the battlefield and whenever you cast your second spell on an opponent’s turn, draw a card. When you do, put a +1/+1 counter on up to one target creature you control.</text>
+    </card>
+    <card>
+      <name>Eternal Puppet Strings</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Gain control of target creature if its mana value is 2 or less. If you didn’t cast Eternal Puppet Strings from your hand, instead gain control of that creature.
+Orchestrate 3UB</text>
+    </card>
+    <card>
+      <name>Cutthroat Politics</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant opponent
+When Cutthroat Politics enters the battlefield, enchanted player reveals their hand. You choose a nonland card from it. Exile that card.
+Whenever enchanted player casts a spell with the same name as the exiled card, Cutthroat Politics deals 4 damage to them.</text>
+    </card>
+    <card>
+      <name>Danaisak&apos;s Firestorm</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>XRG</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Danaisak’s Firestorm deals X damage to each creature that isn’t enchanted, equipped, or an Elemental.</text>
+    </card>
+    <card>
+      <name>Arranger of Seasons</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2GW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - God </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of each upkeep, you may exile target creature card from your graveyard. If you do, create a token that’s a copy of that card. Exile it at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Raven Eyes Tempest</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WWB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Archer </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+Enchantments you control have deathtouch.
+If a permanent dealt damage by a source you control this turn would die, exile it instead.</text>
+    </card>
+    <card>
+      <name>Admiral Zho Aarna</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1URR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Elemental Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Double strike
+Whenever Admiral Zho Aarna deals combat damage to an opponent, search your library for an artifact card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Death Rides on Cruel Hooves</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>BG</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Death Rides on Cruel Hooves enters the battlefield, destroy up to one target creature with mana value 2 or less.
+4BG, Exile Death Rides on Cruel Hooves from your graveyard or the battlefield: Put target creature card from a graveyard onto the battlefield tapped under your control.</text>
+    </card>
+    <card>
+      <name>Golden-Antler</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RWW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Golden-Antler attacks, create a 1/1 white Elk creature token with lifelink.
+Whenever two or more other creatures you control attack, exile the top card of your library. You gain life equal to its converted mana cost. You may play that card this turn.</text>
+    </card>
+    <card>
+      <name>Saroja, Chosen of Journeys</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>GUU</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Reflection Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Permanents that entered the battlefield under your control this turn are lands in addition to their other types and have “{T}: Add one mana of any color.”
+You may activate abilities of land creatures you control as though those creatures had haste.</text>
+    </card>
+    <card>
+      <name>Tombguard Automata</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever Tombguard Automata enters the battlefield or attacks, you may exile target card from a graveyard.</text>
+    </card>
+    <card>
+      <name>Reinforced Panoply</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has vigilance and menace.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Shining Heartstone</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add one mana of any color.
+{T}: Add two mana in any combination of colors. Spend this mana only to cast artifact spells and activate abilities of artifacts.</text>
+    </card>
+    <card>
+      <name>Imperial Decree</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, {T}: Add one mana of any color.
+{6}, {T}, Sacrifice Imperial Decree: Exile target non-Elemental creature.</text>
+    </card>
+    <card>
+      <name>Grand Direlance</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +4/+3 and has reach.
+Equip {4}</text>
+    </card>
+    <card>
+      <name>Mountain-Pattern Blade</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever equipped creature attacks, untap up to one target land you control. It becomes a 5/5 red and black Wall creature with defender and reach until your next upkeep.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Adjutant&apos;s Armor</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Pay 2 life: Equipped creature gains indestructible until end of turn.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Jadeforge Anvil</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{4}, {T}: Reveal the top card of your library, then draw a card. If you revealed an artifact or enchantment card this way, you gain 4 life.</text>
+    </card>
+    <card>
+      <name>Skycutter Boomerang</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever equipped creature attacks and isn’t blocked, you may unattach Skycutter Boomerang. If you do, Skycutter Boomerang deals 1 damage to any target.
+If a creature dealt damage by Skycutter Boomerang died this turn, it has equip {0}.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Ancient Observer</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Eye </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Ancient Observer dies, draw a card.</text>
+    </card>
+    <card>
+      <name>Underworld Grotto</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Underworld Grotto enters the battlefield tapped unless you have an opponent draw a card.
+{T}: Add {B} or {G}.</text>
+    </card>
+    <card>
+      <name>Lapidara Stronghold</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Lapidara Stronghold enters the battlefield tapped unless you have an opponent draw a card.
+{T}: Add {B} or {R}.</text>
+    </card>
+    <card>
+      <name>Thanoori Factory-Citadel</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Thanoori Factory-Citadel enters the battlefield tapped unless you have an opponent draw a card.
+{T}: Add {U} or {R}.</text>
+    </card>
+    <card>
+      <name>Imperial Garrison</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Imperial Garrison enters the battlefield tapped unless you have an opponent draw a card.
+{T}: Add {R} or {W}.</text>
+    </card>
+    <card>
+      <name>Worldway Archive</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Worldway Archive enters the battlefield tapped unless you have an opponent draw a card.
+{T}: Add {G} or {U}.</text>
+    </card>
+    <card>
+      <name>Azaran Necropolis</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Azaran Necropolis enters the battlefield tapped unless you have an opponent draw a card.
+{T}: Add {W} or {B}.</text>
+    </card>
+    <card>
+      <name>Raatkerian Port</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Raatkerian Port enters the battlefield tapped unless you have an opponent draw a card.
+{T}: Add {U} or {B}.</text>
+    </card>
+    <card>
+      <name>Figialtan Protectorate</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Figialtan Protectorate enters the battlefield tapped unless you have an opponent draw a card.
+{T}: Add {G} or {W}.</text>
+    </card>
+    <card>
+      <name>First-Age Temple</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>First-Age Temple enters the battlefield tapped unless you have an opponent draw a card.
+{T}: Add {W} or {U}.</text>
+    </card>
+    <card>
+      <name>Mothercrag Lighthouse</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Mothercrag Lighthouse enters the battlefield tapped unless you have an opponent draw a card.
+{T}: Add {R} or {G}.</text>
+    </card>
+    <card>
+      <name>Geomantic Disruption</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target nonbasic permanent if it has mana value less than or equal to the number of enchantments you control. Geomantic Disruption deals damage equal to that permanent’s mana value to its controller.</text>
+    </card>
+    <card>
+      <name>Someone Else&apos;s Destiny</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>GU</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target instant, sorcery, or Aura spell. If that spell is countered this way, you may exile it and choose a creature you control. When that creature leaves the battlefield, you may cast the exiled card without paying its mana cost.</text>
+    </card>
+    <card>
+      <name>Master of Five</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elemental Monk </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Shikari (When you attack with an enchanted creature and an equipped creature, begin the Wyld Hunt.)
+Whenever you cast a spell that targets Master of Five, copy it. If you’ve begun the Wyld Hunt, copy it four times instead. (Its modes and targets don’t change. A copy of an Aura spell becomes a token.)</text>
+    </card>
+    <card>
+      <name>Unseen Scream of Endings</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>5BBG</manacost>
+        <cmc>8</cmc>
+        <type>Legendary Creature - Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch, indestructible
+Whenever a player casts a spell, you and that player each create a tapped 1/1 colorless Spirit creature token. (If you cast it, create both.)</text>
+    </card>
+    <card>
+      <name>Magnaensis, Titan Slayer</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, {T}, Discard a card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+As long as you control seven or more lands, Magnaensis has equip {2} and “Equipped creature gets +7/+7.”</text>
+    </card>
+    <card>
+      <name>Godmother&apos;s Gift</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you discard a card, you may exile it from your graveyard until Godmother’s Gift leaves the battlefield.
+Equipped creature gets +X/+X, where X is the number of card types among cards exiled with Godmother’s Gift.
+Equip—Discard a card.</text>
+    </card>
+    <card>
+      <name>Erasyl&apos;s Tomb</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Sacrifice Erasyl’s Tomb: Spells cost {1} more to cast this turn. Activate this ability only if the stack is empty.</text>
+    </card>
+    <card>
+      <name>Five-Dragon Armor</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +0/+3 and has “{T}: Add one mana of any color.”
+WUBRG: Put five +1/+1 counters on equipped creature.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Mastery of Earth</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant Mountain
+Enchanted land is a 3/3 red Soldier creature and has haste.
+When enchanted land dies, create a basic land token named Wastes with “{T}: Add {C},” then return Mastery of Earth to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Labyrinth Courser</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever equipped creature becomes blocked, defending player loses 3 life.
+3B, Exile seven cards from your graveyard: Return target creature card from your graveyard to your battlefield and attach Labyrinth Courser to it.
+Equip 1B</text>
+    </card>
+    <card>
+      <name>Garda Flies on Gilded Wings</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature an opponent controls and put a reincarnation counter on it. It gains “Spells you cast with the same name as this card cost {4} less to cast” for as long as it remains exiled.</text>
+    </card>
+    <card>
+      <name>Pillars of Reality</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell if no colored mana was spent to cast it.</text>
+    </card>
+    <card>
+      <name>Vande, Dread Guardian</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Vande </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature an opponent controls dies, create a 1/1 black Skeleton creature token. If it had power 4 or greater, put two +1/+1 counters on that token.
+[+1]: Vande deals 1 damage to any target and you gain 1 life.
+[-6]: You get an emblem with “Creatures you control have indestructible.”
+</text>
+    </card>
+    <card>
+      <name>Gates of Battle</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}: Add one mana of any color among artifacts you control.
+{2}, {T}, Sacrifice Gates of Battle: Search your library for an Equipment card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Orichalcum Juggernaut</name>
+      <set rarity="rare">COD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Orichalcum Juggernaut enters the battlefield, choose one —
+• Attach target Equipment you control that entered the battlefield this turn to it.
+• You may put an Equipment card from your hand onto the battlefield.
+Orchestrate 1W</text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set rarity="">COD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island</name>
+      <set rarity="">COD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <set rarity="">COD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <set rarity="">COD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Forest</name>
+      <set rarity="">COD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Mark for Endings</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Attacking creatures you control get +1/+0 and gain first strike until end of turn.</text>
+    </card>
+    <card>
+      <name>The Wyld Hunt</name>
+      <set rarity="common">COD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You begin the Wyld Hunt when you control a permanent with Shikari and attack with an
+enchanted creature and an equipped creature. Once
+you do, the Hunt continues for the rest of the game.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Monk</name>
+      <set>COD</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Monk </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Soldier</name>
+      <set>COD</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Elk</name>
+      <set>COD</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Elk </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>God</name>
+      <set>COD</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - God </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Incitement</name>
+      <set>COD</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature has haste and can’t block.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Island Token</name>
+      <set>COD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U}.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Wastes</name>
+      <set>COD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Basic Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Keystone</name>
+      <set>COD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Keystone </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, {T}: You gain 1 life.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Skeleton</name>
+      <set>COD</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Skeleton </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Spirit</name>
+      <set>COD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Spirit Copy</name>
+      <set>COD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(This creature has no mana cost and is a Spirit in addition to its other types.)</text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
