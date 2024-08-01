@@ -14,14 +14,14 @@
       <set rarity="common">COD</set>
       <prop>
         <colors>W</colors>
-        <manacost>2W</manacost>
-        <cmc>3</cmc>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
         <type>Creature - Elemental Advisor </type>
         <maintype>Creature</maintype>
-        <pt>3/2</pt>
+        <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Sacrifice Edict Etcher: Exile target enchantment.</text>
+      <text>Sacrifice Edict Etcher: Exile target enchantment. Activate only as a sorcery.</text>
     </card>
     <card>
       <name>Relic Salvager</name>
@@ -70,11 +70,11 @@
       <set rarity="common">COD</set>
       <prop>
         <colors>W</colors>
-        <manacost>1W</manacost>
-        <cmc>2</cmc>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
         <type>Creature - Human Advisor </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever you cast your second spell each turn, Cycle-Charting Genius gets +2/+2 until end of turn.</text>
@@ -155,14 +155,14 @@ Censor of Celestial Crimes can’t block non-God creatures.</text>
       <set rarity="common">COD</set>
       <prop>
         <colors>W</colors>
-        <manacost>3W</manacost>
-        <cmc>4</cmc>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
         <type>Creature - God </type>
         <maintype>Creature</maintype>
-        <pt>2/5</pt>
+        <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>1W, Exile Celestial-Court Envoy from your graveyard: You gain 5 life.</text>
+      <text>WW, Exile Celestial-Court Envoy from your graveyard: You gain 5 life.</text>
     </card>
     <card>
       <name>Plague-Cleansing Touch</name>
@@ -218,21 +218,22 @@ Orchestrate 1W (You may exile this card from your hand anytime you could cast a 
       <tablerow>1</tablerow>
       <text>Flash
 Might 1 (This increases your might by 1 while you control it.)
-When Thunder-Hammer Fist enters the battlefield, it deals damage equal to your might to target attacking creature. Prevent all damage that creature would deal this turn.</text>
+When Thunder-Hammer Fist enters the battlefield, it deals damage equal to your might to target attacking creature and you gain that much life.</text>
     </card>
     <card>
       <name>Tiger-Claw Style</name>
       <set rarity="common">COD</set>
       <prop>
         <colors>W</colors>
-        <manacost>2W</manacost>
-        <cmc>3</cmc>
-        <type>Enchantment - Style </type>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura Style </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Might 2 (This increases your might by 2 while you control it.)
-When Tiger-Claw Style enters the battlefield, it deals damage equal to your might to target tapped creature and you gain that much life.</text>
+      <text>Enchant creature
+Might 1 (This increases your might by 1 while you control it.)
+Enchanted creature gets +X/+X, where X is your might.</text>
     </card>
     <card>
       <name>Prophetic Victory Confidence</name>
@@ -263,21 +264,22 @@ Enchanted creature can’t attack or block and its activated abilities can’t b
 5W: Scry 2.</text>
     </card>
     <card>
-      <name>Azaran Sunspear</name>
+      <name>Unsealer of Fates</name>
       <set rarity="common">COD</set>
       <prop>
         <colors>W</colors>
-        <manacost>1W</manacost>
-        <cmc>2</cmc>
-        <type>Artifact - Equipment </type>
-        <maintype>Artifact</maintype>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Reflection Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
       </prop>
-      <tablerow>1</tablerow>
-      <text>Whenever equipped creature attacks, it gets +1/+0 and gains flying and first strike until end of turn.
-Equip 1W</text>
+      <tablerow>2</tablerow>
+      <text>When Unsealer of Fates enters the battlefield, prevent all damage that would be dealt to target creature or planeswalker this turn.
+Orchestrate {W} (You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, cast this from exile without paying its mana cost.)</text>
     </card>
     <card>
-      <name>Manfestation of Winter</name>
+      <name>Manifestation of Winter</name>
       <set rarity="common">COD</set>
       <prop>
         <colors>U</colors>
@@ -288,7 +290,7 @@ Equip 1W</text>
         <pt>5/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Manfestation of Winter enters the battlefield, tap target creature. If you control three or more Plains, put a stun counter on it.</text>
+      <text>When Manifestation of Winter enters the battlefield, tap target creature an opponent controls. If you control three or more Plains, put three stun counters on it.</text>
     </card>
     <card>
       <name>Anathema Seeker</name>
@@ -363,7 +365,7 @@ Orchestrate 3UU (You may exile this card from your hand anytime you could cast a
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When Skycrystal Reliquarian enters the battlefield, scry 3.</text>
+When Skycrystal Reliquarian enters the battlefield, create a Weapon token. (It’s an Equipment with equip {2} and “Equipped creature gets +1/+1.”)</text>
     </card>
     <card>
       <name>Sapphire Essence-Weaver</name>
@@ -400,13 +402,13 @@ Whenever you cast a spell from exile, put a +1/+1 counter on Altipani Rangers.</
       <set rarity="common">COD</set>
       <prop>
         <colors>U</colors>
-        <manacost>2UU</manacost>
-        <cmc>4</cmc>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
         <type>Instant</type>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Counter target spell. The next time you cast a spell this turn, scry 1, then draw a card.</text>
+      <text>Counter target spell. The next time you cast a spell this turn, draw a card.</text>
     </card>
     <card>
       <name>Perfect Evasion</name>
@@ -426,13 +428,13 @@ Whenever you cast a spell from exile, put a +1/+1 counter on Altipani Rangers.</
       <set rarity="common">COD</set>
       <prop>
         <colors>U</colors>
-        <manacost>3U</manacost>
-        <cmc>4</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Put target creature on top of its owner’s library. If you control three or more Swamps, you may have that player shuffle.</text>
+      <text>Put target creature or planeswalker on top of its owner’s library. If you control three or more Swamps, that player puts a card from their hand on top of their library, then shuffles.</text>
     </card>
     <card>
       <name>Harmonious Academic Method</name>
@@ -497,13 +499,13 @@ Whenever Immaculate Influence enters the battlefield or enchanted creature deals
       <set rarity="common">COD</set>
       <prop>
         <colors>U</colors>
-        <manacost>1U</manacost>
-        <cmc>2</cmc>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
         <type>Artifact - Equipment </type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever equipped creature attacks, if you control three or more Mountains, you may tap target creature.
+      <text>Whenever equipped creature attacks, if you control three or more Mountains, up to two target creatures can’t block this turn.
 Whenever equipped creature deals damage to an opponent, you may draw a card. If you do, discard a card.
 Equip {1}</text>
     </card>
@@ -534,7 +536,7 @@ Equip {1}</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Council of Masks gets +1/+1 for each enchantment you control.
-As long as you control three or more Mountains, Council of Masks has menace.</text>
+Whenever Council of Masks attacks, if you control three or more Mountains, it deals damage equal to its power to defending player.</text>
     </card>
     <card>
       <name>Head-Taker Juggernaut</name>
@@ -621,21 +623,21 @@ When Haunted Quaestor enters the battlefield, you draw a card and you lose 1 lif
       </prop>
       <tablerow>2</tablerow>
       <text>Orchestrate costs you pay cost {1} less to pay.
-Whenever you cast a spell from exile, you lose 2 life.</text>
+Whenever you cast a spell from exile, you lose 1 life.</text>
     </card>
     <card>
       <name>Dead Man&apos;s Grasp</name>
       <set rarity="common">COD</set>
       <prop>
         <colors>B</colors>
-        <manacost>1B</manacost>
-        <cmc>2</cmc>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
         <type>Enchantment - Style </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
       <text>Might 1 (This increases your might by 1 while you control it.)
-When Dead Man’s Grasp enters the battlefield, it deals damage equal to your might to target creature or planeswalker. If that permanent would die this turn, exile it instead.</text>
+When Dead Man’s Grasp enters the battlefield, it deals damage equal to your might to up to one target creature or planeswalker. If that permanent would die this turn, exile it instead.</text>
     </card>
     <card>
       <name>Blood Vortex Hand</name>
@@ -671,15 +673,15 @@ When Single Point Shining Into the Void enters the battlefield, it deals damage 
       <set rarity="common">COD</set>
       <prop>
         <colors>B</colors>
-        <manacost>B</manacost>
-        <cmc>1</cmc>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
         <type>Enchantment - Style </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
       <text>Flash
-Might 1 (This increases your might by 1 while you control it.)
-When Sevenfold Sojourner Stance enters the battlefield, it deals damage equal to your might to target blocking creature. If you control three or more Plains, you gain that much life.</text>
+Might 2 (This increases your might by 2 while you control it.)
+When Sevenfold Sojourner Stance enters the battlefield, it deals X damage to target creature an opponent controls and you gain X life. Then if you control three or more Plains, tap up to X target creatures. X is your might.</text>
     </card>
     <card>
       <name>Gather Materiel</name>
@@ -692,7 +694,7 @@ When Sevenfold Sojourner Stance enters the battlefield, it deals damage equal to
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Target player discards two cards. Put the top six cards of your library into your graveyard.</text>
+      <text>Target player discards two cards. Mill six cards.</text>
     </card>
     <card>
       <name>Underworld Promises</name>
@@ -754,7 +756,7 @@ Orchestrate—1BB, Discard a card. (You may exile this card from your hand anyti
       <set rarity="common">COD</set>
       <prop>
         <colors>R</colors>
-        <manacost>4R</manacost>
+        <manacost>3RR</manacost>
         <cmc>5</cmc>
         <type>Creature - Elemental Monk </type>
         <maintype>Creature</maintype>
@@ -794,17 +796,18 @@ Ward—Pay 3 life. (Whenever this creature becomes the target of a spell or abil
       <text>Noncreature spells you cast cost {1} less to cast.</text>
     </card>
     <card>
-      <name>Shikari&apos;s Armaments</name>
+      <name>Immaculate Weaponmaster</name>
       <set rarity="common">COD</set>
       <prop>
         <colors>R</colors>
-        <manacost>R</manacost>
-        <cmc>1</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elemental Monk </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
       </prop>
-      <tablerow>3</tablerow>
-      <text>Target creature you control gets +2/+1 until end of turn. You may attach an Aura or Equipment you control to it.</text>
+      <tablerow>2</tablerow>
+      <text>When Immaculate Weaponmaster enters the battlefield, create a Weapon token. (It’s an Equipment with equip {2} and “Equipped creature gets +1/+1.”)</text>
     </card>
     <card>
       <name>Wavecleaver Corsair</name>
@@ -848,7 +851,7 @@ Enchanted creature gets +1/+1.
         <pt>5/6</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Lapidara Dragonlord enters the battlefield, destroy target land.</text>
+      <text>When Lapidara Dragonlord enters the battlefield, put a stun counter on each land target opponent controls.</text>
     </card>
     <card>
       <name>Ghostbane Auxiliaries</name>
@@ -877,7 +880,7 @@ As long as it’s your turn and you’ve begun the Wyld Hunt, Ghostbane Auxiliar
         <pt>3/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>As long as you control three or more Plains, Dreaming-Pearl Dancer has first strike.
+      <text>As long as you control three or more Plains, Dreaming-Pearl Dancer has first strike and vigilance.
 When Dreaming-Pearl Dancer enters the battlefield, exile the top four cards of your library. You may cast up to one noncreature, nonland card from among them until the end of your next turn.</text>
     </card>
     <card>
@@ -918,21 +921,22 @@ When Dreaming-Pearl Dancer enters the battlefield, exile the top four cards of y
       </prop>
       <tablerow>1</tablerow>
       <text>Might 1 (This increases your might by 1 while you control it.)
-When Kingdom-Shattering Fist enters the battlefield, destroy up to one target artifact. If you do, it deals damage to that artifact’s controller equal to your might.</text>
+When Kingdom-Shattering Fist enters the battlefield, destroy up to one target artifact. If you do, it deals damage equal to your might to that artifact’s controller.</text>
     </card>
     <card>
-      <name>Sledgehammer Fist Initiate</name>
+      <name>Sledgehammer Fist Style</name>
       <set rarity="common">COD</set>
       <prop>
         <colors>R</colors>
         <manacost>1R</manacost>
         <cmc>2</cmc>
-        <type>Creature - Elemental Monk </type>
-        <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <type>Enchantment - Aura Style </type>
+        <maintype>Enchantment</maintype>
       </prop>
-      <tablerow>2</tablerow>
-      <text>When Sledgehammer Fist Initiate enters the battlefield, put a stun counter on target land.</text>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Might 2 (This increases your might by 2 while you control it.)
+Enchanted creature gets +X/+0 and has menace, where X is your might.</text>
     </card>
     <card>
       <name>Fire-Dragon Style</name>
@@ -950,19 +954,19 @@ Might 2 (This increases your might by 2 while you control it.)
 When Fire-Dragon Style enters the battlefield, it deals damage equal to your might to any target.</text>
     </card>
     <card>
-      <name>Searing Anima</name>
+      <name>Searing-Anima Shikari</name>
       <set rarity="common">COD</set>
       <prop>
         <colors>R</colors>
-        <manacost>1R</manacost>
-        <cmc>2</cmc>
-        <type>Enchantment - Aura </type>
-        <maintype>Enchantment</maintype>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental Monk </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
       </prop>
-      <tablerow>1</tablerow>
-      <text>Enchant creature
-Shikari (When you attack with an enchanted creature and an equipped creature, begin the Wyld Hunt.)
-Enchanted creature gets +3/+0. If you’ve begun the Wyld Hunt, enchanted creature has menace.</text>
+      <tablerow>2</tablerow>
+      <text>Shikari (When you attack with an enchanted creature and an equipped creature, begin the Wyld Hunt.)
+Whenever Searing-Anima Shikari attacks, if you’ve begun the Wyld Hunt, it deals 3 damage to defending player.</text>
     </card>
     <card>
       <name>Height Advantage</name>
@@ -996,17 +1000,19 @@ Whenever equipped creature deals combat damage to an opponent, if you’ve begun
 Equip {3}</text>
     </card>
     <card>
-      <name>Wealth of the Dragonborn</name>
+      <name>Fireblood Rival</name>
       <set rarity="common">COD</set>
       <prop>
         <colors>R</colors>
-        <manacost>3R</manacost>
-        <cmc>4</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elemental Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
       </prop>
-      <tablerow>3</tablerow>
-      <text>Draw cards equal to the number of noncreature, nonland permanents you control, then discard that many cards.</text>
+      <tablerow>2</tablerow>
+      <text>Prowess
+Whenever you create a noncreature token, Fireblood Rival gets +1/+1 until end of turn.</text>
     </card>
     <card>
       <name>Sungraced Emissary</name>
@@ -1017,7 +1023,7 @@ Equip {3}</text>
         <cmc>4</cmc>
         <type>Creature - Human Cleric </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>When Sungraced Emissary enters the battlefield, if you control three or more Plains, create a 2/2 white God creature token.
@@ -1028,11 +1034,11 @@ Whenever another creature you control dies, you gain 2 life.</text>
       <set rarity="common">COD</set>
       <prop>
         <colors>G</colors>
-        <manacost>2G</manacost>
-        <cmc>3</cmc>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
         <type>Creature - Elemental Knight </type>
         <maintype>Creature</maintype>
-        <pt>3/3</pt>
+        <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Shikari (When you attack with an enchanted creature and an equipped creature, begin the Wyld Hunt.)
@@ -1057,11 +1063,11 @@ Whenever House Pilla Vanguard attacks, if you’ve begun the Wyld Hunt, put a +1
       <set rarity="common">COD</set>
       <prop>
         <colors>G</colors>
-        <manacost>3G</manacost>
-        <cmc>4</cmc>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
         <type>Creature - Human Cleric </type>
         <maintype>Creature</maintype>
-        <pt>2/3</pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Deathtouch
@@ -1080,7 +1086,7 @@ Whenever House Pilla Vanguard attacks, if you’ve begun the Wyld Hunt, put a +1
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-When Daudaka Warsteed enters the battlefield, put a +1/+1 counter on target creature you control.</text>
+When Daudaka Warsteed enters the battlefield, create a Weapon token. When you do, you may attach it to another target creature you control. (It’s an Equipment with equip {2} and “Equipped creature gets +1/+1.”)</text>
     </card>
     <card>
       <name>Wood-Dragon Outrider</name>
@@ -1116,7 +1122,7 @@ Wood-Dragon Outrider has ward {2} as long as you’ve begun the Wyld Hunt. (When
       <set rarity="common">COD</set>
       <prop>
         <colors>G</colors>
-        <manacost>3GG</manacost>
+        <manacost>4G</manacost>
         <cmc>5</cmc>
         <type>Creature - Human Shaman Warrior </type>
         <maintype>Creature</maintype>
@@ -1130,7 +1136,7 @@ Wood-Dragon Outrider has ward {2} as long as you’ve begun the Wyld Hunt. (When
       <set rarity="common">COD</set>
       <prop>
         <colors>G</colors>
-        <manacost>5GG</manacost>
+        <manacost>6G</manacost>
         <cmc>7</cmc>
         <type>Creature - Chimera </type>
         <maintype>Creature</maintype>
@@ -1140,19 +1146,19 @@ Wood-Dragon Outrider has ward {2} as long as you’ve begun the Wyld Hunt. (When
       <text>Whenever Colossal Familiar attacks, put a +1/+1 counter on another target attacking creature you control.</text>
     </card>
     <card>
-      <name>Hunter&apos;s Jade Coat</name>
+      <name>Huntsworn Emissary</name>
       <set rarity="common">COD</set>
       <prop>
         <colors>G</colors>
-        <manacost>1G</manacost>
-        <cmc>2</cmc>
-        <type>Artifact - Equipment </type>
-        <maintype>Artifact</maintype>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Elemental Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
       </prop>
-      <tablerow>1</tablerow>
+      <tablerow>2</tablerow>
       <text>Shikari (When you attack with an enchanted creature and an equipped creature, begin the Wyld Hunt.)
-Equipped creature gets +1/+1. If you’ve begun the Wyld Hunt, prevent all damage that would be dealt to it.
-Equip {1}</text>
+When Huntsworn Emissary leaves the battlefield, you gain 2 life. If you’ve begun the Wyld Hunt, create a 2/2 white God creature token.</text>
     </card>
     <card>
       <name>Memories of the First Age</name>
@@ -1192,7 +1198,7 @@ Target permanent you control gains hexproof and indestructible until end of turn
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Search your library for a basic land card and put it onto the battlefield tapped, then shuffle. Then if you control three or more Swamps, you may return a creature or land card from your graveyard to your hand.</text>
+      <text>Search your library for a basic land card and put it onto the battlefield, then shuffle. Then if you control three or more Swamps, you may return a creature or land card from your graveyard to your hand.</text>
     </card>
     <card>
       <name>Feats of Strength</name>
@@ -1236,7 +1242,7 @@ Enchanted creature gets +2/+2. If you control three or more Mountains, instead i
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Prevent all damage that would be dealt by creatures blocking or blocked by Steelshatter Adept.
+      <text>As long as Steelshatter Adept attacked or blocked this turn, prevent all noncombat damage that would be dealt by sources your opponents control.
 Whenever Steelshatter Adept deals combat damage to an opponent, that player sacrifices an artifact or enchantment.</text>
     </card>
     <card>
@@ -1690,7 +1696,7 @@ When Laughing Wounds Form enters the battlefield, it deals damage equal to your 
       <tablerow>1</tablerow>
       <text>Whenever a nontoken creature enters the battlefield under your control, if it wasn’t cast from your hand, you may attach Deathknight Scythe to it.
 Equipped creature gets +4/+0 and has menace.
-Equip 6B</text>
+Equip 4B</text>
     </card>
     <card>
       <name>Pyretic Prodigy</name>
@@ -1825,20 +1831,6 @@ XXR, Exile Puissant Salvage Sense: Return X target noncreature, nonland cards fr
 • Create two tapped 1/1 red Soldier creature tokens.</text>
     </card>
     <card>
-      <name>Invoke the Molten Kraken</name>
-      <set rarity="uncommon">COD</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>3R</manacost>
-        <cmc>4</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Target opponent sacrifices an artifact and a nonbasic land.
-The next time you play a card from exile this turn, add RRRR.</text>
-    </card>
-    <card>
       <name>Loyalty&apos;s Reward</name>
       <set rarity="uncommon">COD</set>
       <prop>
@@ -1945,13 +1937,13 @@ At the beginning of your upkeep, return a nonland permanent you control to its o
       <set rarity="uncommon">COD</set>
       <prop>
         <colors>G</colors>
-        <manacost>4G</manacost>
-        <cmc>5</cmc>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Destroy target noncreature permanent. You may return a creature you control to its owner’s hand.</text>
+      <text>Return target creature you control to its owner’s hand. Create X Weapon tokens, where X is its power. You may attach them to another creature you control.</text>
     </card>
     <card>
       <name>Reaver&apos;s Daiklaive</name>
@@ -2155,8 +2147,8 @@ Whenever Frozen-Tide Sorcerer deals combat damage to a player, untap up to that 
       <set rarity="rare">COD</set>
       <prop>
         <colors>U</colors>
-        <manacost>4U</manacost>
-        <cmc>5</cmc>
+        <manacost>5U</manacost>
+        <cmc>6</cmc>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
       </prop>
@@ -2309,7 +2301,7 @@ When The Lion Forsaken dies, shuffle it and any number of enchantment cards from
       </prop>
       <tablerow>1</tablerow>
       <text>Might 3 (This increases your might by 3 while you control it.)
-When Crimson Pentacle Blades enters the battlefield, it deals damage to each player equal to your might.</text>
+When Crimson Pentacle Blades enters the battlefield, it deals damage equal to your might to each player.</text>
     </card>
     <card>
       <name>Kerthi, Itinerant Duelist</name>
@@ -2578,7 +2570,7 @@ Orchestrate 4UB (You may exile this card from your hand anytime you could cast a
       </prop>
       <tablerow>1</tablerow>
       <text>Might 2 (This increases your might by 2 while you control it.)
-When Earth-Dragon Style enters the battlefield, it deals damage equal to your might to target creature or planeswalker.
+When Earth-Dragon Style enters the battlefield, it deals damage equal to your might to up to one target creature or planeswalker.
 4B: Destroy target creature or planeswalker that was dealt damage this turn.</text>
     </card>
     <card>
@@ -2845,18 +2837,18 @@ You may activate abilities of land creatures you control as though those creatur
 Whenever Tombguard Automata enters the battlefield or attacks, you may exile target card from a graveyard.</text>
     </card>
     <card>
-      <name>Reinforced Panoply</name>
+      <name>Steelblood Inheritor</name>
       <set rarity="common">COD</set>
       <prop>
-        <colors></colors>
-        <manacost>1</manacost>
-        <cmc>1</cmc>
-        <type>Artifact - Equipment </type>
-        <maintype>Artifact</maintype>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
       </prop>
-      <tablerow>1</tablerow>
-      <text>Equipped creature has vigilance and menace.
-Equip {2}</text>
+      <tablerow>2</tablerow>
+      <text>When Steelblood Inheritor enters the battlefield, you may exile a creature card from your graveyard. If you do, create a Weapon token and attach it to Steelblood Inheritor. (It’s an Equipment with equip {2} and “Equipped creature gets +1/+1.”)</text>
     </card>
     <card>
       <name>Shining Heartstone</name>
@@ -2887,21 +2879,34 @@ Equip {2}</text>
 {6}, {T}, Sacrifice Imperial Decree: Exile target non-Elemental creature.</text>
     </card>
     <card>
-      <name>Grand Direlance</name>
+      <name>Summoning the Loyal Steel</name>
       <set rarity="common">COD</set>
       <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile the top card of your library. You may play that card this turn. Create a Weapon token. (It’s an Equipment with equip {2} and “Equipped creature gets +1/+1.”)</text>
+    </card>
+    <card>
+      <name>Sleeping Sentinel&apos;s Idol</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
         <colors></colors>
-        <manacost>5</manacost>
-        <cmc>5</cmc>
-        <type>Artifact - Equipment </type>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Equipped creature gets +4/+3 and has reach.
-Equip {4}</text>
+      <text>{T}: Add one mana of any color. Activate only if you control three or more lands that share a subtype.
+{2}: Sleeping Sentinel’s Idol becomes a 2/2 white God creature until end of turn.</text>
     </card>
     <card>
-      <name>Mountain-Pattern Blade</name>
+      <name>Adjutant&apos;s Armor</name>
       <set rarity="uncommon">COD</set>
       <prop>
         <colors></colors>
@@ -2911,22 +2916,8 @@ Equip {4}</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever equipped creature attacks, untap up to one target land you control. It becomes a 5/5 red and black Wall creature with defender and reach until your next upkeep.
-Equip {3}</text>
-    </card>
-    <card>
-      <name>Adjutant&apos;s Armor</name>
-      <set rarity="uncommon">COD</set>
-      <prop>
-        <colors></colors>
-        <manacost>2</manacost>
-        <cmc>2</cmc>
-        <type>Artifact - Equipment </type>
-        <maintype>Artifact</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Pay 2 life: Equipped creature gains indestructible until end of turn.
-Equip {2}</text>
+      <text>Whenever equipped creature attacks, you may pay 1 life. If you do, create a 1/1 red Soldier creature token that’s tapped and attacking.
+Equip {1}</text>
     </card>
     <card>
       <name>Jadeforge Anvil</name>
@@ -2965,7 +2956,7 @@ Equip {3}</text>
         <cmc>4</cmc>
         <type>Artifact Creature - Eye </type>
         <maintype>Creature</maintype>
-        <pt>2/1</pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -2978,12 +2969,12 @@ When Ancient Observer dies, draw a card.</text>
         <colors></colors>
         <manacost></manacost>
         <cmc>0</cmc>
-        <type>Land</type>
+        <type>Land - Swamp Forest </type>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Underworld Grotto enters the battlefield tapped unless you have an opponent draw a card.
-{T}: Add {B} or {G}.</text>
+      <text>({T}: Add {B} or {G}.)
+Underworld Grotto enters the battlefield tapped unless you have an opponent draw a card.</text>
     </card>
     <card>
       <name>Lapidara Stronghold</name>
@@ -2992,12 +2983,12 @@ When Ancient Observer dies, draw a card.</text>
         <colors></colors>
         <manacost></manacost>
         <cmc>0</cmc>
-        <type>Land</type>
+        <type>Land - Swamp Mountain </type>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Lapidara Stronghold enters the battlefield tapped unless you have an opponent draw a card.
-{T}: Add {B} or {R}.</text>
+      <text>({T}: Add {B} or {R}.)
+Lapidara Stronghold enters the battlefield tapped unless you have an opponent draw a card.</text>
     </card>
     <card>
       <name>Thanoori Factory-Citadel</name>
@@ -3006,12 +2997,12 @@ When Ancient Observer dies, draw a card.</text>
         <colors></colors>
         <manacost></manacost>
         <cmc>0</cmc>
-        <type>Land</type>
+        <type>Land - Island Mountain </type>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Thanoori Factory-Citadel enters the battlefield tapped unless you have an opponent draw a card.
-{T}: Add {U} or {R}.</text>
+      <text>({T}: Add {U} or {R}.)
+Thanoori Factory-Citadel enters the battlefield tapped unless you have an opponent draw a card.</text>
     </card>
     <card>
       <name>Imperial Garrison</name>
@@ -3020,12 +3011,12 @@ When Ancient Observer dies, draw a card.</text>
         <colors></colors>
         <manacost></manacost>
         <cmc>0</cmc>
-        <type>Land</type>
+        <type>Land - Mountain Plains </type>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Imperial Garrison enters the battlefield tapped unless you have an opponent draw a card.
-{T}: Add {R} or {W}.</text>
+      <text>({T}: Add {R} or {W}.)
+Imperial Garrison enters the battlefield tapped unless you have an opponent draw a card.</text>
     </card>
     <card>
       <name>Worldway Archive</name>
@@ -3034,12 +3025,12 @@ When Ancient Observer dies, draw a card.</text>
         <colors></colors>
         <manacost></manacost>
         <cmc>0</cmc>
-        <type>Land</type>
+        <type>Land - Forest Island </type>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Worldway Archive enters the battlefield tapped unless you have an opponent draw a card.
-{T}: Add {G} or {U}.</text>
+      <text>({T}: Add {G} or {U}.)
+Worldway Archive enters the battlefield tapped unless you have an opponent draw a card.</text>
     </card>
     <card>
       <name>Azaran Necropolis</name>
@@ -3048,12 +3039,12 @@ When Ancient Observer dies, draw a card.</text>
         <colors></colors>
         <manacost></manacost>
         <cmc>0</cmc>
-        <type>Land</type>
+        <type>Land - Plains Swamp </type>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Azaran Necropolis enters the battlefield tapped unless you have an opponent draw a card.
-{T}: Add {W} or {B}.</text>
+      <text>({T}: Add {W} or {B}.)
+Azaran Necropolis enters the battlefield tapped unless you have an opponent draw a card.</text>
     </card>
     <card>
       <name>Raatkerian Port</name>
@@ -3062,12 +3053,12 @@ When Ancient Observer dies, draw a card.</text>
         <colors></colors>
         <manacost></manacost>
         <cmc>0</cmc>
-        <type>Land</type>
+        <type>Land - Island Swamp </type>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Raatkerian Port enters the battlefield tapped unless you have an opponent draw a card.
-{T}: Add {U} or {B}.</text>
+      <text>({T}: Add {U} or {B}.)
+Raatkerian Port enters the battlefield tapped unless you have an opponent draw a card.</text>
     </card>
     <card>
       <name>Figialtan Protectorate</name>
@@ -3076,12 +3067,12 @@ When Ancient Observer dies, draw a card.</text>
         <colors></colors>
         <manacost></manacost>
         <cmc>0</cmc>
-        <type>Land</type>
+        <type>Land - Forest Plains </type>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Figialtan Protectorate enters the battlefield tapped unless you have an opponent draw a card.
-{T}: Add {G} or {W}.</text>
+      <text>({T}: Add {G} or {W}.)
+Figialtan Protectorate enters the battlefield tapped unless you have an opponent draw a card.</text>
     </card>
     <card>
       <name>First-Age Temple</name>
@@ -3090,12 +3081,12 @@ When Ancient Observer dies, draw a card.</text>
         <colors></colors>
         <manacost></manacost>
         <cmc>0</cmc>
-        <type>Land</type>
+        <type>Land - Plains Island </type>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>First-Age Temple enters the battlefield tapped unless you have an opponent draw a card.
-{T}: Add {W} or {U}.</text>
+      <text>({T}: Add {W} or {U}.)
+First-Age Temple enters the battlefield tapped unless you have an opponent draw a card.</text>
     </card>
     <card>
       <name>Mothercrag Lighthouse</name>
@@ -3104,12 +3095,12 @@ When Ancient Observer dies, draw a card.</text>
         <colors></colors>
         <manacost></manacost>
         <cmc>0</cmc>
-        <type>Land</type>
+        <type>Land - Mountain Forest </type>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Mothercrag Lighthouse enters the battlefield tapped unless you have an opponent draw a card.
-{T}: Add {R} or {G}.</text>
+      <text>({T}: Add {R} or {G}.)
+Mothercrag Lighthouse enters the battlefield tapped unless you have an opponent draw a card.</text>
     </card>
     <card>
       <name>Geomantic Disruption</name>
@@ -3237,7 +3228,7 @@ Equip {2}</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant Mountain
-Enchanted land is a 3/3 red Soldier creature and has haste.
+Enchanted land is a 3/3 red Soldier creature and has haste. It’s still a land.
 When enchanted land dies, create a basic land token named Wastes with “{T}: Add {C},” then return Mastery of Earth to its owner’s hand.</text>
     </card>
     <card>
@@ -3423,6 +3414,21 @@ Orchestrate 1W</text>
 enchanted creature and an equipped creature. Once
 you do, the Hunt continues for the rest of the game.</text>
     </card>
+    <card>
+      <name>Invoke the Molten Kraken</name>
+      <set rarity="uncommon">COD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one. When you cast your next spell this turn, choose the other.
+• Destroy up to one target nonbasic land.
+• Invoke the Molten Kraken deals 4 damage to any target.</text>
+    </card>
 
     <!-->Tokens</-->
 
@@ -3564,6 +3570,19 @@ Enchanted creature has haste and can’t block.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>(This creature has no mana cost and is a Spirit in addition to its other types.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Weapon</name>
+      <set>COD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Equipment Weapon </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1.
+Equip {2}</text>
       <token>1</token>
     </card>
 
